@@ -1,0 +1,15 @@
+- name: Luca Benini
+  affiliation: University of Bologna, ETH Zürich
+  fame: Lead of the RISC-V PULP platform
+- name: Giovanni De Micheli
+  affiliation: EPFL Lausanne
+  fame: Professor and Director LSI lab
+- name: Marie-Minerve Louërat
+  affiliation: Sorbonne University
+  fame: Coriolis VLSI CAD Tool & Free Silicon Foundation, hosted by CNRS Foundation
+- name: Harald Pretl
+  affiliation: Johannes Kepler University Linz
+  fame: Maintainer of IIC-OSIC-TOOLS
+- name: Stefan Wallentowitz
+  affiliation: Munich University of Applied Sciences
+  fame: Director at FOSSi Foundation & Director at RISC-V
