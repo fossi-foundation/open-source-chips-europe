@@ -37,7 +37,7 @@ Sincerely,
 
 <div class="container">
 {% for sign in site.data.initial %}
-<div class="signatory" markdown="1">
+<div class="initial" markdown="1">
 **{{ sign.name }}**
 
 {{ sign.affiliation }}
@@ -49,4 +49,18 @@ Sincerely,
 
 ### Signatories
 
-*We kindly ask educators and researchers from academia to co-sign this open letter. To co-sign, please send a mail from your university mailing address to [stefan.wallentowitz@hm.edu](mailto:stefan.wallentowitz@hm.edu) and include your affiliation and ideally include a link to your profile.*
+*We kindly ask educators and researchers from European academic institutions to
+co-sign this open letter. To co-sign, please send a mail from your university
+mailing address to
+[stefan.wallentowitz@hm.edu](mailto:stefan.wallentowitz@hm.edu) and include your
+affiliation and ideally include a link to your profile.*
+
+<div class="container">
+{% for sign in site.data.signatories %}
+<div class="signatory" markdown="1">
+**{{ sign.name }}**
+
+{{ sign.affiliation }}
+</div>
+{% endfor %}
+</div>

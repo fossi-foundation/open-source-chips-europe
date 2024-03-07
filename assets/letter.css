@@ -34,9 +34,21 @@ h3 {
     margin: 0;
 }
 
-.signatory {
+.initial > * {
+    margin: 0;
+}
+
+.initial {
     width: 23rem;
     @media (max-width: 60rem) {
+        width: 100%;
+    }
+    margin: 1rem;
+}
+
+.signatory {
+    width: 23rem;
+    @media (max-width: 50rem) {
         width: 100%;
     }
     margin: 1rem;
