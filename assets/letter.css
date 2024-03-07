@@ -35,6 +35,9 @@ h3 {
 }
 
 .signatory {
-    width: 45%;
+    width: 23rem;
+    @media (max-width: 60rem) {
+        width: 100%;
+    }
     margin: 1rem;
 }
