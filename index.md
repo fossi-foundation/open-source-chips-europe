@@ -47,7 +47,7 @@ Sincerely,
 {% endfor %}
 </div>
 
-### Signatories
+### Signatories ({{ site.data.signatories.size }})
 
 *We kindly ask educators and researchers from European academic institutions to
 co-sign this open letter. To co-sign, please send a mail from your university
@@ -56,7 +56,8 @@ mailing address to
 affiliation and ideally include a link to your profile.*
 
 <div class="container">
-{% for sign in site.data.signatories %}
+{% assign signatories = site.data.signatories | sort: "name" %}
+{% for sign in signatories %}
 <div class="signatory" markdown="1">
 **{{ sign.name }}**
 
