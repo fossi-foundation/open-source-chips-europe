@@ -57,6 +57,7 @@
   map: "[45.06352, 7.65953]"
 - name: Michele Magno
   affiliation: Lecturer & Head of D-ITET center for project-based learning, ETH Zürich, Switzerland
+  map: "[47.37638, 8.54772]"
 - name: Davide Brunelli
   affiliation: Associate Professor, University of Trento, Italy
   map: "[46.0660,11.1167]"
@@ -68,8 +69,10 @@
   map: "[47.74196,-3.38438]"
 - name: Tommaso Polonelli
   affiliation: Lecturer, ETH Zürich, Zürich, Switzerland
+  map: "[47.37638, 8.54772]"
 - name: Alfio Di Mauro
   affiliation: Postdoctoral Researcher, ETH Zürich, Zürich, Switzerland
+  map: "[47.37638, 8.54772]"
 - name: Simone Benatti
   affiliation: Assistant Professor, University of Modena and Reggio Emilia, Italy
   map: "[44.70276, 10.62901]"
