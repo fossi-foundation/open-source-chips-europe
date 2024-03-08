@@ -115,3 +115,30 @@
 - name: Andrea Marongiu
   affiliation: Associate Professor, University of Modena and Reggio Emilia
   map: "[44.70276, 10.62901]"
+- name: Emanuel Mihai Popovici
+  affiliation: Director of the Embedded.Systems@UCC Group, University College Cork, Ireland
+  map: "[51.8942, -8.4722]"
+- name: Joachim Rodrigues
+  affiliation: Head of Integrated Electronic Systems at Lund University, Sweden
+  map: "[55.71193,13.21037]"
+- name: David Atienza Alonso
+  affiliation: Professor, Ecole Polytechnique Fédérale de Lausanne, Switzerland
+  map: "[46.5192, 6.5670]"
+- name: Marian Verhelst
+  affiliation: Professor, MICAS at KU Leuven, Belgium
+  map: "[50.8791,4.7009]"
+- name: Andreas Burg
+  affiliation: Associate Professor, École Polytechnique Fédérale de Lausanne, Switzerland
+  map: "[46.5192, 6.5670]"
+- name: Victor Kartsch
+  affiliation: Postdoc Researcher, ETH Zürich, Switzerland
+  map: "[47.37638, 8.54772]"
+- name: Franck Wajsbürt
+  affiliation: Lecturer, Coriolis Foundation hosted by CNRS Foundation, Sorbonne University, France
+  map: "[48.84712, 2.35693]"
+- name: Mauro Olivieri
+  affiliation: Associate Professor, Sapienza University of Rome, Italy
+  map: "[41.90286,12.51487]"
+- name: Thomas Benz
+  affiliation: Researcher, ETH Zürich, Switzerland
+  map: "[47.37638, 8.54772]"
