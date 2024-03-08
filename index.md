@@ -68,8 +68,9 @@ affiliation and ideally include a link to your profile.*
 
 <div id ="map" style = "width:800px; height:600px;"></div>
 
-<script src = "https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
 <script>
     // Creating map options
     var mapOptions = {
