@@ -1,74 +1,108 @@
 - name: Kashif Inayat
   affiliation: Senior Research Engineer, Barcelona Supercomputing Center, Spain
+  map: "[41.38976, 2.11635]"
 - name: Lorenzo Pirrami
   affiliation: Professor, University of Applied Sciences and Arts Western Switzerland, in Fribourg, Switerland
+  map: "[46.80564, 7.16034]"
 - name: Matthias Jung
   affiliation: Professor, Julius-Maximilians-Universität of Würzburg, Germany
+  map: "[49.78961, 9.93587]"
 - name: Robert Weigel
   affiliation: Professor, University of Erlangen-Nuremberg (FAU), Germany
+  map: "[49.5731, 11.0279]"
 - name: Christian Vogel
   affiliation: Professor, FH JOANNEUM, Austria
+  map: "[47.06916, 15.40985]"
 - name: José T. de Sousa
   affiliation: Assistant Professor, University of Lisbon, Portugal
+  map: "[38.75241, -9.15678]"
 - name: Roberto Giorgi
   affiliation: Associate Professor, University of Siena, Italy
+  map: "[43.31417, 11.32718]"
 - name: César Fuguet
   affiliation: Research Engineer, CEA-List, France
+  map: "[48.71214, 2.19440]"
 - name: Frank K. Gürkaynak
   affiliation: Senior Scientist, ETH Zürich, Switzerland
+  map: "[47.37638, 8.54772]"
 - name: Alfonso Rodríguez
   affiliation: Associate Professor, Universidad Politécnica de Madrid, Spain
+  map: "[40.3894,-3.6284]"
 - name: Miquel Moretó
   affiliation: Associate Professor, UPC and BSC, Spain
+  map: "[41.38976, 2.11635]"
 - name: Markus Müller
   affiliation: Research Associate, TU Dresden, Germany
+  map: "[51.02789, 13.73070]"
 - name: Juan Luis Aragón
   affiliation: Full Professor, Universidad de Murcia, Spain
+  map: "[38.01473, -1.16763]"
 - name: Christian Fabre
   affiliation: Senior Researcher & Engineer, CEA LIST, France
+  map: "[48.71214, 2.19440]"
 - name: Víctor Soria Pardos
   affiliation: Research Engineer, UPC and BSC, Spain
+  map: "[41.38976, 2.11635]"
 - name: Olivier Sentieys
   affiliation: Senior Research Director, Inria, France
+  map: "[48.1193,-1.6399]"
 - name: Alexandre Menu
   affiliation: Associate Professor, École de mines de Saint-Étienne (IMT), France
+  map: "[45.42781,4.40387]"
 - name: Andrea  Bartolini, Associate Professor,
   affiliation: Associate Professor, University of Bologna, Italy
+  map: "[44.4941, 11.3418]"
 - name: Alessio Burrello
   affiliation: Post-Doc Researcher, Politecnico di Torino, Italy
+  map: "[45.06352, 7.65953]"
 - name: Michele Magno
   affiliation: Lecturer & Head of D-ITET center for project-based learning, ETH Zürich, Switzerland
 - name: Davide Brunelli
   affiliation: Associate Professor, University of Trento, Italy
+  map: "[46.0660,11.1167]"
 - name: Giuseppe Tagliavini
   affiliation: Assistant Professor, University of Bologna, Italy
+  map: "[44.4941, 11.3418]"
 - name: Philippe Coussy
   affiliation: Professor, Deputy Director of the Lab-STICC, Université Bretagne Sud, France
+  map: "[47.74196,-3.38438]"
 - name: Tommaso Polonelli
   affiliation: Lecturer, ETH Zürich, Zürich, Switzerland
 - name: Alfio Di Mauro
   affiliation: Postdoctoral Researcher, ETH Zürich, Zürich, Switzerland
 - name: Simone Benatti
-  affiliatgion: Assistant Professor, University of Modena and Reggio Emilia, Italy
+  affiliation: Assistant Professor, University of Modena and Reggio Emilia, Italy
+  map: "[44.70276, 10.62901]"
 - name: Marko Kosunen
   affiliation: Senior Researcher, Aalto University, Espoo, Finland
+  map: "[60.1872, 24.8287]"
 - name: Alessandro Capotondi,
   affiliation: Assistant Professor, University of Modena and Reggio Emilia, Italy
+  map: "[44.70276, 10.62901]"
 - name: Domenico Balsamo
   affiliation: Associate Professor, Newcastle University, United Kingdom
+  map: "[54.9800, -1.6147]"
 - name: Frédéric Pétrot
   affiliation: Professor, Grenoble INP/UGA, France
+  map: "[45.18448, 5.75296]"
 - name: Adrian Evans
   affiliation: Research Engineer, CEA-LIST, France
+  map: "[48.71214, 2.19440]"
 - name: Jesús Alastruey Benedé
   affiliation: Associate Professor, Universidad de Zaragoza, Spain
+  map: "[41.6385, -0.8981]"
 - name: Kevin Martin
   affiliation: Associate Professor, Université de Bretagne-Sud, France
+  map: "[47.74196, -3.38438]"
 - name: Jean-Christophe Le Lann
   affiliation: Associate professor, ENSTA Bretagne, France 
+  map: "[48.41900,-4.47210]"
 - name: Sandro Pinto
   affiliation: Associate Research Professor, Universidade do Minho, Portugal
+  map: "[41.55731,-8.39793]"
 - name: Francesco Conti
-  affiliation: Tenure-track Assistant Professor, University of Bologna, Italy
+  affiliation: Assistant Professor, University of Bologna, Italy
+  map: "[44.4941, 11.3418]"
 - name: Daniele Jahier Pagliari
   affiliation: Assistant Professor, Politecnico di Torino, Italy
+  map: "[45.06352, 7.65953]"

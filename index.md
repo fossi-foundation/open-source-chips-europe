@@ -65,3 +65,41 @@ affiliation and ideally include a link to your profile.*
 </div>
 {% endfor %}
 </div>
+
+<div id ="map" style = "width:800px; height:600px;"></div>
+
+<script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+<script>
+    // Creating map options
+    var mapOptions = {
+    center: [52.2657, 10.5227],
+    zoom: 4,
+    zoomControl: false,
+    doubleClickZoom: false,
+    boxZoom: false,
+    scrollWheelZoom: false,
+    keyboard: false,
+    dragging: false
+    }
+    
+    // Creating a map object
+    var map = new L.map('map', mapOptions);
+    
+    // Creating a Layer object
+    var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    
+    // Adding layer to the map
+    map.addLayer(layer);
+
+{% for sign in site.data.initial %}
+    {% if sign.map %}
+    L.marker({{ sign.map}}).addTo(map)
+    {% endif %}
+{% endfor %}
+{% for sign in site.data.signatories %}
+    {% if sign.map %}
+    L.marker({{ sign.map}}).addTo(map)
+    {% endif %}
+{% endfor %}
+</script>

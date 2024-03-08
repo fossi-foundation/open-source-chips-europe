@@ -1,15 +1,20 @@
 - name: Luca Benini
   affiliation: University of Bologna, Italy & ETH Zürich, Switzerland
   fame: Professor, Lead of the RISC-V PULP platform
+  map: "[44.4941, 11.3418]"
 - name: Giovanni De Micheli
-  affiliation: EPFL Lausanne, Switerland
+  affiliation: EPFL Lausanne, Switzerland
   fame: Professor and Director LSI lab
+  map: "[46.5192, 6.5670]"
 - name: Marie-Minerve Louërat
   affiliation: Sorbonne University, France
   fame: Research Scientist, Coriolis Foundation hosted by CNRS Foundation
+  map: "[48.84712, 2.35693]"
 - name: Harald Pretl
   affiliation: Johannes Kepler University Linz, Austria
   fame: Professor, Maintainer of IIC-OSIC-TOOLS
+  map: "[48.3369, 14.3199]"
 - name: Stefan Wallentowitz
   affiliation: Hochschule München University of Applied Sciences, Germany
   fame: Professor, Director at FOSSi Foundation & Director at RISC-V
+  map: "[48.15420, 11.55726]"
