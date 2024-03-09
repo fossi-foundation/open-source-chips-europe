@@ -49,7 +49,7 @@
 - name: Alexandre Menu
   affiliation: Associate Professor, École de mines de Saint-Étienne (IMT), France
   map: "[45.42781,4.40387]"
-- name: Andrea  Bartolini, Associate Professor,
+- name: Andrea  Bartolini
   affiliation: Associate Professor, University of Bologna, Italy
   map: "[44.4941, 11.3418]"
 - name: Alessio Burrello
@@ -98,7 +98,7 @@
   affiliation: Associate Professor, Université de Bretagne-Sud, France
   map: "[47.74196, -3.38438]"
 - name: Jean-Christophe Le Lann
-  affiliation: Associate professor, ENSTA Bretagne, France 
+  affiliation: Associate Professor, ENSTA Bretagne, France
   map: "[48.41900,-4.47210]"
 - name: Sandro Pinto
   affiliation: Associate Research Professor, Universidade do Minho, Portugal
@@ -142,3 +142,23 @@
 - name: Thomas Benz
   affiliation: Researcher, ETH Zürich, Switzerland
   map: "[47.37638, 8.54772]"
+- name: Michelangelo Barocci
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Marco Santambrogio
+  affiliation: Professor, Politecnico di Milano, Italy
+  map: "[45.4781,9.2286]"
+- name: Andrea Pignata
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Maria Adelaide Loffa
+  affiliation: Research Fellow, Politecnico di Torino, Italy
+- name: Thorsten Knoll
+  affiliation: Researcher, RheinMain University of Applied Sciences, Germany
+  map: "[50.09670,8.21679]"
+- name: Edoardo Patti
+  affiliation: Associate Professor, Politecnico di Torino, Italy
+- name: Hussam Amrouch
+  affiliation: Professor, Technical University Munich, Germany
+- name: John Goodenough
+  affiliation: Professor, The University of Sheffield, United Kingdom
+  map: "[53.38176,-1.48057]"
+
