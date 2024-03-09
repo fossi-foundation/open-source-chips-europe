@@ -161,4 +161,19 @@
 - name: John Goodenough
   affiliation: Professor, The University of Sheffield, United Kingdom
   map: "[53.38176,-1.48057]"
+- name: Enrico Macii
+  affiliation: Professor, Politecnico di Torino, Italy
+- name: Guillem López Paradís
+  affiliation: Researcher, BSC & UPC, Spain
+- name: Eugenio Villar
+  affiliation: Professor, Universidad de Cantabria, Santander, Spain
+  map: "[43.4711,-3.8030]"
+- name: Martin Schoeberl
+  affiliation: Professor, Technical University of Denmark, Denmark
+  map: "[55.7845,12.5189]"
+- name: Davide Rossi
+  affiliation: Associate Professor, University of Bologna, Italy
+- name: Rafael Natalio Fontana Crespo
+  affiliation: Researcher, Politecnico di Torino, Italy
+
 
