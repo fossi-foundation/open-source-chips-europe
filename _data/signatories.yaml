@@ -175,5 +175,82 @@
   affiliation: Associate Professor, University of Bologna, Italy
 - name: Rafael Natalio Fontana Crespo
   affiliation: Researcher, Politecnico di Torino, Italy
-
-
+- name: Andrea De Iacovo
+  affiliation: Assistant Professor, Roma Tre University, Italy
+  map: "[41.85508,12.46840]"
+- name: Alberto Carini
+  affiliation: Associate Professor, University of Trieste, Italy
+  map: "[45.65977,13.79454]"
+- name: Massimo Barbaro
+  affiliation: Professor, Università degli Studi di Cagliari, Italy
+  map: "[39.22174,9.11682]"
+- name: Daniela De Venuto
+  affiliation: Professor, Politecnico di Bari, Italy
+  map: "[41.10896,16.87858]"
+- name: Andrea Irace
+  affiliation: Professor, Università di Napoli "Federico II", Italy
+  map: "[40.82486,14.19505]"
+- name: David Esseni
+  affiliation: Professor, University of Udine, Italy
+  map: "[46.06985,13.23398]"
+- name: Valerio Vignoli
+  affiliation: Professor, University of Siena, Italy
+- name: Carmine Abbate
+  affiliation: Professor, University of Cassino and Southern Lazio, Italy
+  map: "[41.28498,13.24379]"
+- name: Paolo Mattavelli
+  affiliation: Professor, University of Padova, Italy
+  map: "[45.40656,11.87745]"
+- name: Federica Zonzini
+  affiliation: Junior Assistant Professor, University of Bologna, Italy
+- name: Pierpaolo Palestri
+  affiliation: Professor. University of Modena and Reggio-Emilia, Italy
+- name: Luca Roselli
+  affiliation: Professor, University of Perugia, Italy
+  map: "[43.11623,12.38564]"
+- name: Massimo Ruo Roch
+  affiliation: Assistant Professor, Politecnico di Torino, Italy
+- name: Gianluca Giustolisi
+  affiliation: Professor, Università di Catania, Italy
+  map: "[37.5036,15.0795]"
+- name: Matthias Auf der Maur
+  affiliation: Professor, Università degli Studi di Roma "Tor Vergata", Italy
+- name: Aldo Minardo
+  affiliation: Professor, Università della Campania "Luigi Vanvitelli", Italy
+  map: "[40.9753,14.2040]"
+- name: Giovanni Pollo
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Christian Falconi
+  affiliation: Assistant Professor, University of Rome Tor Vergata, Italy
+- name: Luca De Marchi
+  affiliation: Associate Professor, University of Bologna, Italy
+- name: Erika Pellegrino
+  affiliation: Researcher, HPC Leonardo Labs, Italy
+- name: Riccardo Pignari
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Filippo Mantovani
+  affiliation: Established Researcher, Barcelona Supercomputing Center, Spain
+- name: Santa Di Cataldo,
+  affiliation: Associate Professor, Politecnico di Torino, Italy
+- name: Walter Gallego Gomez
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Christos Kotselidis
+  affiliation: Associate Professor, The University of Manchester, United Kingdom
+  map: "[53.4664,-2.2319]"
+- name: Luca Benfenati
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Patricio Bulic
+  affiliation: Professor, University of Ljubljana, Slovenia
+  map: "[46.0542,14.5081]"
+- name: Andrea Acquaviva
+  affiliation: Professor, University of Bologna, Italy
+- name: Pietro Rando Mazzarino
+  affiliation: Researhcer, Politecnico di Torino, Italy
+- name: Claudia De Vizia
+  affiliation: Researhcer, Politecnico di Torino, Italy
+- name: Maurizio Valle
+  affiliation: Professor, University of Genova, Italy
+  map: ["44.41488,8.92665"]
+- name: Manolis Marazakis
+  affiliation: Principal Research Scientist, Institute of Computer Science, FORTH, Greece
+  map: ["35.3062,25.0729"]
