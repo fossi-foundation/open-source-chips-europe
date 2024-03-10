@@ -258,6 +258,7 @@
   affiliation: Professor, Hochschule München University of Applied Sciences, Germany
 - name: Lodovico Ratti
   affiliation: Professor, University of Pavia, Italy
+  map: "[45.18697,9.15690]"
 - name: Marco Tartagni
   affiliation: Professor, University of Bologna, Italy
   map: "[44.1364,12.2426]"
@@ -266,10 +267,10 @@
   map: "[44.8379,11.6160]"
 - name: Massimo Conti
   affiliation: Professor, Università Politecnica delle Marche, Italy
-  map: "[42.91599,13.90167]"
+  map: "[43.6152,13.5176]"
 - name: Andrei Stasi
   affiliation: Associate Professor, Universitatea Tehnică "Gheorghe Asachi" Iaşi, Romania
-  map: "[43.6102,13.5139]"
+  map: "[47.1603,27.5846]"
 - name: Luca Selmi
   affiliation: Professor, Università degli Studi di Modena e Reggio Emilia, Italy
 - name: Angelo Garofalo,
