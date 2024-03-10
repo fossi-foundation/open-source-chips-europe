@@ -286,3 +286,25 @@
 - name: Wayne Luk
   affiliation: Professor, Imperial College London, United Kingdom
   map: "[51.49881,-0.17516]"
+- name: Shreejith Shanker
+  affiliation: Assistant Professor, Trinity College Dublin, Ireland
+  map: "[53.34383,-6.25495]"
+- name: Vittorio Fra
+  affiliation: Assistant Professor, Politecnico di Torino, Italy
+- name: Mădălin Moise
+  affiliation: Lecturer, University Politehnica of Bucharest, Romania
+  map: "[44.4388,26.0487]"
+- name: Stefano Paraboschi
+  affiliation: Professor, University of Bergamo, Italy
+  map: "[45.6940,9.6699]"
+- name: Sergio Saponara
+  affiliation: Professor, University of Pisa, Italy
+  map: "[43.7140,10.4037]"
+- name: Marco Re
+  affiliation: Associate Professor, University of Rome Tor Vergata, Italy
+- name: Marco Carminati
+  affiliation: Associate Professor, Politecnico di Milano, Italy
+- name: Călin Bîră
+  affiliation: Associate Professor, University Politehnica of Bucharest, Romania
+- name: Francesco Daghero
+  affiliation: Researcher, Politecnico di Torino, Italy
