@@ -275,3 +275,11 @@
   affiliation: Professor, Università degli Studi di Modena e Reggio Emilia, Italy
 - name: Angelo Garofalo,
   affiliation: Junior Assistant Professor, University of Bologna, Italy
+- name: Mladen Berekovic
+  affiliation: Professor, Universität zu Lübeck, Germany
+  map: "[53.8642,10.6873]"
+- name: Dionisios Pnevmatikatos
+  affiliation: Professor, National Technical University of Athens, Greece
+  map: "[37.98782,23.73174]"
+- name: Mateo Valero
+  affiliation: Professor and Director of the Barcelona Supercomputing Center, Spain
