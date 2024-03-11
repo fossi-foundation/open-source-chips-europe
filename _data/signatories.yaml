@@ -551,3 +551,23 @@
 - name: René Scholz
   affiliation: Group Leader, IHP, Germany
   map: "[52.3406,14.5483]"
+- name: Vedran Bilas
+  affiliation: Professor, University of Zagreb, Croatia
+  map: "[45.8058,15.9707]"
+- name: Christoph Studer
+  affiliation: Associate Professor, ETH Zürich, Switzerland
+- name: Kaveh Razavi
+  affiliation: Assistant Professor, ETH Zürich, Switzerland
+- name: Guilherme Paim
+  affiliation: Assistant Professor, University of Lisbon, Portugal
+- name: Manuel Rodriguez
+  affiliation: Associate Professor, Universidad de La Laguna, Spain
+  map: "[28.48475,-16.31306]"
+- name: Yusuf Leblebici
+  affiliation: President of Sabanci University in Istanbul, Turkey
+  map: "[40.8896,29.3802]"
+- name: Victor Viñals
+  affiliation: Professor, Universidad de Zaragoza, Spain
+- name: Linus Maurer
+  affiliation: Professor, Universität der Bundeswehr, Germany
+  map: "[48.0789,11.6348]"
