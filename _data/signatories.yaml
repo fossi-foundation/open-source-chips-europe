@@ -326,4 +326,21 @@
 - name: Christian Fager
   affiliation: Professor, Chalmers University of Technology in Gothenburg, Sweden
   map: "[57.6891,11.9764]"
-
+- name: Pekka Jääskeläinen
+  affiliation: Professor, Tampere University, Tampere, Finland
+- name: Dimitrios Soudris
+  affiliation: Professor, National Technical University of Athens, Greece
+- name: Mustak E. Yalcin
+  affiliation: Professor, Istanbul Technical University, Turkey
+  map: "[41.1049,29.0268]"
+- name: Eleonora Franchi Scarselli
+  affiliation: Associate Professor, University of Bologna, Italy
+- name: Maksim Jenihhin
+  affiliation: Associate Professor, Tallinn University of Technology, Estonia
+  map: "[59.43936,24.77200]"
+- name: Vishnu Unnikrishnan
+  affiliation: Assistant Professor, Tampere University, Finland
+- name: Federico Alimenti
+  affiliation: Associate Professor, University of Perugia, Italy
+- name: Lorenzo Palma
+  affiliation: Assistant Professor, Università Politecnica delle Marche, Italy
