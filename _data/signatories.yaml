@@ -457,3 +457,40 @@
 - name: Andreas Koch
   affiliation: Professor, Technical University of Darmstadt, Germany
   map: "[49.8716,8.6538]"
+- name: Alessandro Barenghi
+  affiliation: Associate Professor, Politecnico di Milano, Italy
+- name: Aurélien Francillon
+  affiliation: Professor, EURECOM, France
+  map: "[43.61437,7.07128]"
+- name: Mario Roberto Casu
+  affiliation: Associate Professor, Politecnico di Torino, Italy
+- name: Paul Pop
+  affiliation: Professor, Techical University of Denmark
+- name: Giovanni Busatto
+  affiliation: Professor, University of Cassino and southern Lazio, Italy
+- name: Claudio Giovanni Demartini
+  affiliation: Professor, Politecnico di Torino, Italy
+- name: Giuseppe Aceto, PhD
+  affiliation: Associate Professor, Universita' degli Studi di Napoli "Federico II", Italy
+- name: Andreas Krall
+  affiliation: Associate Professor, TU Wien, Austria
+  map: "[48.19850,16.36987]"
+- name: Davide Bertozzi
+  affiliation: Reader, University of Manchester, United Kingdom
+- name: Jean-Michel Portal
+  affiliation: Professor, Deputy Director of IM2NP, Aix-Marseille University, France
+  map: "[43.3077,5.3833]"
+- name: Roberto Passerone
+  affiliation: Associate Professor, University of Trento, Italy
+- name: Sébastien, Le Nours
+  affiliation: Associate Professor, University Nantes, France
+  map: "[47.2177,-1.5542]"
+- name: Işıl Öz
+  affiliation: Assistant Professor, Izmir Institute of Technology, Turkey
+  map: "[38.445,27.114]"
+- name: Martin Fränzle
+  affiliation: Professor, Carl von Ossietzky Universität Oldenburg, Germany
+  map: "[53.14686,8.18131]"
+- name: Jörn Schneider
+  affiliation: Professor, Trier University of Applied Sciences, Germany
+  map: "[49.76795,6.62874]"
