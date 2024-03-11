@@ -589,3 +589,19 @@
   affiliation: Professor, UPC BarcelonaTech, Spain
 - name: Przemysław Pawełczak
   affiliation: Associate Professor, TU Delft, Netherlands
+- name: Oscar Plata
+  affiliation: Professor, University of Malaga, Spain
+  map: "[36.7169,-4.4165]"
+- name: Christian Pilato
+  affiliation: Associate Professor, Politecnico di Milano, Italy
+- name: Arda Yurdakul
+  affiliation: Professor, Bogazici University, Turkey
+  map: "[41.08367,29.05086]"
+- name: Kostas Siozios
+  affiliation: Associate Professor, Aristotle University of Thessaloniki, Greece
+  map: "[40.6411,22.9312]"
+- name: Nele Mentens
+  affiliation: Professor, KU Leuven & Leiden University, Belgium
+  map: "[52.1593,4.4917]"
+
+
