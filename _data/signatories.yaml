@@ -448,8 +448,7 @@
   map: "[42.3514,13.3930]"
 - name: Michele Caselli
   affiliation: Research Fellow, University of Parma, Italy
-  map: "[52.3406,14.5483]"
-- name: Prof. Milos Krstic
+- name: Milos Krstic
   affiliation: Professor, University of Potsdam, & Department Head, IHP - Leibniz Institute for High Performance Microelectronics, Germany
   map: "[52.4016,13.0586]"
 - name: Alessandro Aliberti
@@ -502,3 +501,53 @@
   affiliation: Associate Professor, Politecnico di Milano, Italy
 - name: Francesca Palumbo
   affiliation: Associate Professor, Università degli Studi di Cagliari, Italy
+- name: Alessandro Bertacchini
+  affiliation: Assistant Professor, Università degli Studi di Modena e Reggio Emilia, Italy
+- name: David Mallasén Quintana
+  affiliation: Research and Teaching Assistant, Universidad Complutense de Madrid, Spain
+  map: "[40.4168,3.7038]"
+- name: Kasim Sinan Yildirim
+  affiliation: Associate Professor, University of Trento, Italy
+- name: Giuseppe Bertuccio
+  affiliation: Professor, Politecnico di Milano, Italy
+- name: Luca Sterpone
+  affiliation: Professor, Politecnico di Torino, Italy
+- name: Axel Jantsch
+  affiliation: Professor, TU Wien, Austria
+- name: Alexander Viehl
+  affiliation: Division Manager, Forschungszentrum Informatik in Karlsruhe, Germany
+  map: "[49.0069,8.4037]"
+- name: Luis Entrena
+  affiliation: Professor, Universidad Carlos III de Madrid, Spain
+- name: Manuel Gericota
+  affiliation: Professor, Polytechnic University of Porto, Portugal
+  map: "[41.1579,8.6291]"
+- name: George Lentaris,
+  affiliation: Assistant Professor, University of West Attica, Greece
+- name: Ovidiu Vermesan
+  affiliation: Chief Scientist, SINTEF Digital, Oslo, Norway
+  map: "[59.9139,10.7522]"
+- name: José L. Abellán
+  affiliation: PostDoc Researcher, University of Murcia, Spain
+- name: Jaume Abella
+  affiliation: Group Leader, Barcelona Supercomputing Center, Spain
+- name: Giuseppe Sarda
+  affiliation: Researcher, KU Leuven, Belgium
+- name: Josse Van Delm
+  affiliation: Researcher, KU Leuven, Belgium
+- name: Dirk Koch
+  affiliation: Professor, Heidelberg University, Germany
+  map: "[49.3988, 8.6724]"
+- name: Davide Maltoni
+  affiliation: Professor, University of Bologna, Italy
+- name: Antonio Rubio
+  affiliation: Professor, Universitat Politecnica de Catalunya (UPC), Barcelona, Spain
+- name: Francesc Moll
+  affiliation: Associate Professor, UPC and BSC, Spain
+- name: Taekwang Jang
+  affiliation: Assistant Professor, ETH Zürich, Switzerland
+- name: Angel Dieguez
+  affiliation: Professor, University of Barcelona, Spain
+- name: René Scholz
+  affiliation: Group Leader, IHP, Germany
+  map: "[52.3406,14.5483]"
