@@ -230,7 +230,7 @@
   affiliation: Researcher, Politecnico di Torino, Italy
 - name: Filippo Mantovani
   affiliation: Established Researcher, Barcelona Supercomputing Center, Spain
-- name: Santa Di Cataldo,
+- name: Santa Di Cataldo
   affiliation: Associate Professor, Politecnico di Torino, Italy
 - name: Walter Gallego Gomez
   affiliation: Researcher, Politecnico di Torino, Italy
@@ -360,12 +360,12 @@
 - name: Vittorio Zaccaria
   affiliation: Associate Professor, Politecnico di Milano, Italy
 - name: Stefan Heinen
-  affiliation: RWTH Aachen University
+  affiliation: Professor, RWTH Aachen University, Germany
   map: "[50.7801,6.0674]"
 - name: Jordi Carrabina
   affiliation: Professor, Autonomous University of Barcelona, Spain
 - name: Stefano Caselli
-  affiliation: University of Parma, Italy
+  affiliation: Professor, University of Parma, Italy
   map: "[44.80416,10.33535]"
 - name: Roberto Vergallo
   affiliation: Assistant Professor, University of Salento, Italy
@@ -498,3 +498,7 @@
   affiliation: Associate Researcher, Otto-von-Guericke University of Magdeburg, Germany
 - name: David Castells-Rufas
   affiliation: Professor, Universitat Autònoma de Barcelona, Spain
+- name: Antonio Miele
+  affiliation: Associate Professor, Politecnico di Milano, Italy
+- name: Francesca Palumbo
+  affiliation: Associate Professor, Università degli Studi di Cagliari, Italy

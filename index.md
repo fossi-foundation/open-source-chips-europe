@@ -35,17 +35,9 @@ Sincerely,
 
 ### Initial Signatories
 
-<div class="container">
 {% for sign in site.data.initial %}
-<div class="initial" markdown="1">
-**{{ sign.name }}**
-
-{{ sign.affiliation }}
-
-*{{ sign.fame }}*
-</div>
+**{{ sign.name }}**, {{ sign.affiliation }}, *{{ sign.fame }}*
 {% endfor %}
-</div>
 
 ### Signatories ({{ site.data.signatories.size }})
 
@@ -55,16 +47,10 @@ mailing address to
 [stefan.wallentowitz@hm.edu](mailto:stefan.wallentowitz@hm.edu) and include your
 affiliation and ideally include a link to your profile.*
 
-<div class="container">
 {% assign signatories = site.data.signatories | sort: "name" %}
 {% for sign in signatories %}
-<div class="signatory" markdown="1">
-**{{ sign.name }}**
-
-{{ sign.affiliation }}
-</div>
+**{{ sign.name }}**, *{{ sign.affiliation }}*
 {% endfor %}
-</div>
 
 <div id="map" style="width:600px; height:600px; margin: auto; display: block"></div>
 
