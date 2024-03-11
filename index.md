@@ -66,7 +66,7 @@ affiliation and ideally include a link to your profile.*
 {% endfor %}
 </div>
 
-<div id ="map" style = "width:800px; height:600px;"></div>
+<div id="map" style="width:600px; height:600px; margin: auto; display: block"></div>
 
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
@@ -74,7 +74,7 @@ affiliation and ideally include a link to your profile.*
 <script>
     // Creating map options
     var mapOptions = {
-    center: [52.2657, 10.5227],
+    center: [52.2657, 7],
     zoom: 4,
     zoomControl: false,
     doubleClickZoom: false,
