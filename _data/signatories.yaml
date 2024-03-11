@@ -362,3 +362,14 @@
 - name: Stefan Heinen
   affiliation: RWTH Aachen University
   map: "[50.7801,6.0674]"
+- name: Jordi Carrabina
+  affiliation: Professor, Autonomous University of Barcelona, Spain
+- name: Stefano Caselli
+  affiliation: University of Parma, Italy
+  map: "[44.80416,10.33535]"
+- name: Roberto Vergallo
+  affiliation: Assistant Professor, University of Salento, Italy
+  map: "[40.35614,18.16757]"
+- name: Jens Sparsø
+  affiliation: Professor, Danmarks Tekniske Universitet, Denmark
+  map: "[55.7856,12.5208]"
