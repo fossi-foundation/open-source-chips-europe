@@ -571,3 +571,15 @@
 - name: Linus Maurer
   affiliation: Professor, Universität der Bundeswehr, Germany
   map: "[48.0789,11.6348]"
+- name: Lorenzo Bottaccioli
+  affiliation: Assistant Professor, Politecnico di Torino, Italy
+- name: Gracia Ester Martín Garzón
+  affiliation: Professor, University of Almeria, Spain
+  map: "[36.8489,-2.4527]"
+- name: Luca Barbierato
+  affiliation: Assistant Professor, Politecnico di Torino, Italy
+- name: Pasquale Corsonello
+  affiliation: Professor, University of Calabria, Italy
+- name: Achim D. Brucke
+  affiliation: Professor, University of Exeter, United Kingdom
+  map: "[50.7338,-3.5321]"
