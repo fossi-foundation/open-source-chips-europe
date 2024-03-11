@@ -2,7 +2,7 @@
   affiliation: Senior Research Engineer, Barcelona Supercomputing Center, Spain
   map: "[41.38976, 2.11635]"
 - name: Lorenzo Pirrami
-  affiliation: Professor, University of Applied Sciences and Arts Western Switzerland, in Fribourg, Switerland
+  affiliation: Professor, University of Applied Sciences and Arts Western Switzerland, Fribourg, Switzerland
   map: "[46.80564, 7.16034]"
 - name: Matthias Jung
   affiliation: Professor, Julius-Maximilians-Universität of Würzburg, Germany
@@ -583,3 +583,9 @@
 - name: Achim D. Brucke
   affiliation: Professor, University of Exeter, United Kingdom
   map: "[50.7338,-3.5321]"
+- name: Mathieu Luisier
+  affiliation: Professor, ETH Zürich, Switzerland
+- name: Eduard Alarcon
+  affiliation: Professor, UPC BarcelonaTech, Spain
+- name: Przemysław Pawełczak
+  affiliation: Associate Professor, TU Delft, Netherlands
