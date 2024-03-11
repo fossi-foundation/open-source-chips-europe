@@ -373,3 +373,22 @@
 - name: Jens Sparsø
   affiliation: Professor, Danmarks Tekniske Universitet, Denmark
   map: "[55.7856,12.5208]"
+- name: Martin Andraud
+  affiliation: Professor, UC Louvain, Belgium & Aalto University, Finland
+  map: "[50.8389,4.3715]"
+- name: Maurizio Palesi
+  affiliation: Associate Professor, University of Catania, Italy
+- name: Luca Fanucci
+  affiliation: Professor, University of Pisa, Italy
+- name: Gaetano Palumbo
+  affiliation: Professor, Università di Catania, Italy
+- name: Paolo Burgio
+  affiliation: Assistant Professor, University of Modena and Reggio Emilia, Italy
+- name: Antonio Lioy
+  affiliation: Professor, Politecnico di Torino, Italy
+- name: Martin Wilhelm
+  affiliation: PostDoc, Otto-von-Guericke-Universität Magdeburg, Germany
+  map: "[52.1284,11.6407]"
+- name: Franco Fummi
+  affiliation: Professor, Universita' di Verona, Italy
+  map: "[45.4372,10.9935]"
