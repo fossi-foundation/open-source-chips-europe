@@ -308,3 +308,22 @@
   affiliation: Associate Professor, University Politehnica of Bucharest, Romania
 - name: Francesco Daghero
   affiliation: Researcher, Politecnico di Torino, Italy
+- name: Paolo Meloni
+  affiliation: Associate Professor, Università degli Studi di Cagliari, Italy
+- name: Georgios I. Goumas
+  affiliation: Associate Professor, National Technical University of Athens, Greece
+- name: Jari Nurmi
+  affiliation: Professor, Tampere University, Tampere, Finland
+  map: "[61.49378,23.77968]"
+- name: Ian O'Connor
+  affiliation: Professor, Ecole Centrale de Lyon, France
+  map: "[45.7572,4.8319]"
+- name: Maurizio Martina
+  affiliation: Professor, Politecnico di Torino, Italy
+- name: Xaveer Leijtens
+  affiliation: Associate Professor, Eindhoven University of Technology, Netherlands
+  map: "[51.4397,5.4777]"
+- name: Christian Fager
+  affiliation: Professor, Chalmers University of Technology in Gothenburg, Sweden
+  map: "[57.6891,11.9764]"
+
