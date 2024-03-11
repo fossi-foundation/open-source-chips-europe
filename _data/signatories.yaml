@@ -344,3 +344,21 @@
   affiliation: Associate Professor, University of Perugia, Italy
 - name: Lorenzo Palma
   affiliation: Assistant Professor, Università Politecnica delle Marche, Italy
+- name: Kwantae Kim
+  affiliation: Established Researcher, ETH Zurich, Switzerland
+- name: Carmelo Felicetti
+  affiliation: Assistant Professor, University of Calabria, Italy
+  map: "[39.3623,16.2256]"
+- name: Daniel Große
+  affiliation: Professor, Johannes Kepler University Linz, Austria
+- name: Andy D. Pimentel
+  affiliation: Professor, University of Amsterdam, Netherlands
+  map: "[52.36809,4.88982]"
+- name: Panagiotis Dimitrakis
+  affiliation: Director of Research, Institute of Nanoscience & Nanotechnology NCSR "Demokritos", Greece
+  map: "[38.0064,23.8220]"
+- name: Vittorio Zaccaria
+  affiliation: Associate Professor, Politecnico di Milano, Italy
+- name: Stefan Heinen
+  affiliation: RWTH Aachen University
+  map: "[50.7801,6.0674]"
