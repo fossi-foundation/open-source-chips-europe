@@ -327,7 +327,7 @@
   affiliation: Professor, Chalmers University of Technology in Gothenburg, Sweden
   map: "[57.6891,11.9764]"
 - name: Pekka Jääskeläinen
-  affiliation: Professor, Tampere University, Tampere, Finland
+  affiliation: Associate Professor, Tampere University, Tampere, Finland
 - name: Dimitrios Soudris
   affiliation: Professor, National Technical University of Athens, Greece
 - name: Mustak E. Yalcin
@@ -427,3 +427,24 @@
   affiliation: Associate Professor, Politecnico di Torino, Italy
 - name: Fabio Depaoli
   affiliation: Researcher, Politecnico di Torino, Italy
+- name: Baptiste Mélès
+  affiliation: Researcher, Université de Lorraine, France
+  map: "[48.66890,6.15525]"
+- name: Mohamed Amine Hamdi
+  affiliation: Researcher, Politecnico di Torino, Italy
+- name: Dietmar Fey
+  affiliation: Professor, Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Germany
+- name: Letizia Tanca
+  affiliation: Professor, Politecnico di Milano, Italy
+- name: Chang Gao
+  affiliation: Assistant Professor, Delft University of Technology, Netherlands
+  map: "[51.9974,4.3750]"
+- name: Paulo Flores
+  affiliation: Associate Professor, University of Lisbon, Portugal
+- name: Viktor Razilov
+  affiliation: Research Associate, TU Dresden, Germany
+- name: Luigi Pomante
+  affiliation: Assistant Professor, Università degli Studi dell'Aquila, Italy
+  map: "[42.3514,13.3930]"
+- name: Michele Caselli
+  affiliation: Research Fellow, University of Parma, Italy
