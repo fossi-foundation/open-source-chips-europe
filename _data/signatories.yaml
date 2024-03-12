@@ -122,13 +122,13 @@
   affiliation: Head of Integrated Electronic Systems at Lund University, Sweden
   map: "[55.71193,13.21037]"
 - name: David Atienza Alonso
-  affiliation: Professor, Ecole Polytechnique Fédérale de Lausanne, Switzerland
+  affiliation: Professor, Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
   map: "[46.5192, 6.5670]"
 - name: Marian Verhelst
   affiliation: Professor, MICAS at KU Leuven, Belgium
   map: "[50.8791,4.7009]"
 - name: Andreas Burg
-  affiliation: Associate Professor, École Polytechnique Fédérale de Lausanne, Switzerland
+  affiliation: Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
   map: "[46.5192, 6.5670]"
 - name: Victor Kartsch
   affiliation: Postdoc Researcher, ETH Zürich, Switzerland
@@ -409,13 +409,13 @@
 - name: Javier Resano,
   affiliation: Associate Professor, Universidad de Zaragoza, Spain
 - name: Pasquale Davide Schiavone,
-  affiliation: PostDoc, École Polytechnique Fédérale de Lausanne, Switzerland
+  affiliation: PostDoc, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 - name: Giovanni Ansaloni
-  affiliation: Researcher, École Polytechnique Fédérale de Lausanne, Switzerland
+  affiliation: Researcher, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 - name: Elena Gnani
   affiliation: Associate Professor, University of Bologna, Italy
 - name: Alexandre Levisse
-  affiliation: Senior Scientist, École Polytechnique Fédérale de Lausanne, Switzerland
+  affiliation: Senior Scientist, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 - name: Giuseppe Liotta
   affiliation: Professor, University of Perugia, Italy
 - name: Màrius Montón
@@ -691,3 +691,7 @@
   affiliation: Assistant Professor, University of Amsterdam, Netherlands
 - name: Javier Hormigo
   affiliation: Professor, University of Málaga, Spain
+- name: Paolo Ienne
+  affiliation: Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+- name: Rubén Gran Tejero
+  affiliation: Associate Professor, University of Zaragoza, Spain
