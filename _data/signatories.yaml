@@ -651,4 +651,29 @@
 - name: Marek Wójcikowski
   affiliation: Associate Professor, Gdansk University of Technology, Poland
   map: "[54.3981,18.5580]"
+- name: Javier Serrano
+  affiliation: Section Leader, CERN, Switzerland
+  map: "[46.2340,6.0466]"
+- name: Melika Payvand
+  affiliation: Assistant Professor, University of Zurich and ETH Zürich, Switzerland
+- name: Bartomeu Alorda-Ladaria
+  affiliation: Innovation and Transfer knowledge director, University of Balearic Islands, Spain
+- name: Emanuele Cardillo
+  affiliation: Assistant Professor, University of Messina, Italy
+- name: Tiziano Villa
+  affiliation: Professor, Università di Verona, Italy
+- name: Wladek Grabinski
+  affiliation: SPICE Modeling Manager, MOS-AK, Switzerland
+- name: Andrés Otero
+  affiliation: Associate Professor, Universidad Politécnica de Madrid, Spain
+- name: Tim Güneysu
+  affiliation: Professor, Ruhr University Bochum & DFKI, Germany
+  map: "[51.4444,7.2611]"
+- name: Christof Paar
+  affiliation: Professor, Ruhr University Bochum & Director, Max Planck Institute for Security and Privacy, Germany
+  map: "[51.44453,7.25629]"
+- name: Todor Stefanov
+  affiliation: Associate Professor, Leiden University, Netherlands
+
+
 
