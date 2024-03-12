@@ -674,6 +674,17 @@
   map: "[51.44453,7.25629]"
 - name: Todor Stefanov
   affiliation: Associate Professor, Leiden University, Netherlands
-
-
+- name: Kim Grüttner
+  affiliation: Head of Department, Deutsches Zentrum für Luft- und Raumfahrt, Germany
+  map: "[53.14880,8.20037]"
+- name: Farshad Moradi,
+  affiliation: Professor, Aarhus University, Denmark
+  map: "[56.1582,10.2015]"
+- name: Stefania Perri
+  affiliation: Associate Professor, Università della Calabria, Italy
+- name: Vassilis Papaefstathiou
+  affiliation: Assistant Professor, University of Crete & Institute of Computer Science - FORTH, Greece
+- name: Goerschwin Fey
+  affiliation: Professor, Hamburg University of Technology, Germany
+  map: "[53.5436,10.0085]"
 
