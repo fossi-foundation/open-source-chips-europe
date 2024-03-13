@@ -739,7 +739,16 @@
 - name: Paolo Nenzi
   affiliation: Researcher, ENEA, Italy
   map: "[41.8084,12.6799]"
-
-
-
-
+- name: Daniel Müller-Gritschneder
+  affiliation: Adjunct Professor, Technische Universität München, Germany
+- name: Francisco Tirado 
+  affiliation: Professor, Universidad Complutense, Spain
+- name: Mario Auer
+  affiliation: Associate Professor, Graz University of Technology, Austria
+- name: Bastian Löher
+  affiliation: Researcher, GSI Helmholtzzentrum, Germany
+- name: Alberto Tibaldi
+  affiliation: Assistant Professor, Politecnico di Torino, Italy
+- name: Stefan Nikolić
+  affiliation: Assistant Professor, University of Novi Sad, Serbia
+  map: "[45.2529,19.8269]"
