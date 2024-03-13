@@ -752,3 +752,38 @@
 - name: Stefan Nikolić
   affiliation: Assistant Professor, University of Novi Sad, Serbia
   map: "[45.2529,19.8269]"
+- name: Thomas Zimmer
+  affiliation: Professor, University of Bordeaux, IMS-Lab, France
+  map: "[44.8412,-0.5805]"
+- name: Francesco Centurelli
+  affiliation: Assistant Professor, Sapienza Università di Roma, Italy
+- name: Luciano Lavagno
+  affiliation: Professor, Politecnico di Torino, Italy
+- name: George Christou
+  affiliation: PostDoc Researcher, Technical University of Crete, Greece
+- name: Matthias Bucher
+  affiliation: Professor, Technical University of Crete, Greece
+- name: Sotiris Ioannidis
+  affiliation: Associate Professor, Technical University of Crete, Greece
+- name: Martin Sauter
+  affiliation: Professor, Universität der Bundeswehr München, Germany
+- name: Marko Koricic
+  affiliation: Professor, University of Zagreb, Croatia
+- name: Domingo Benítez
+  affiliation: Professor, University of Las Palmas de Gran Canaria, Spain
+  map: "[28.1005,-15.4411]"
+- name: Korkut Kaan Tokgoz
+  affiliation: Assistant Professor, Sabanci University, Turkey
+- name: Giacomo Langfelder
+  affiliation: Associate Professor, Politecnico di Milano, Italy
+- name: Vasileios Leon
+  affiliation: Senior Researcher, National Technical University of Athens, Greece
+- name: Luca Barion
+  affiliation: Researcher, INFN - Sezione di Ferrara, Ferrara, Italy
+- name: Enrico Tronci
+  affiliation: Professor, Sapienza University of Rome, Italy
+- name: George Theodoridis
+  affiliation: Associate Professor, Patras University, Greece
+  map: "[38.2435,21.7341]"
+
+
