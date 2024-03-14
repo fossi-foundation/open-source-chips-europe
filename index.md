@@ -49,7 +49,7 @@ affiliation and ideally include a link to your profile.*
 
 {% assign signatories = site.data.signatories | sort: "name" %}
 {% for sign in signatories %}
-**{{ sign.name }}**, *{{ sign.affiliation }}*
+**{{ sign.name }}**, <i>{{ sign.job }}, {{ sign.institution }}, {{ sign.country }}</i>
 {% endfor %}
 
 <div id="map" style="width:600px; height:600px; margin: auto; display: block"></div>
@@ -81,6 +81,6 @@ affiliation and ideally include a link to your profile.*
 
 {% for sign in site.data.initial %}{% if sign.map %}L.marker({{ sign.map}}).addTo(map)
 {% endif %}{% endfor %}
-{% for sign in site.data.signatories %}{% if sign.map %}L.marker({{ sign.map}}).addTo(map)
+{% for sign in site.data.signatories %}{% if sign.coord %}L.marker({{ sign.coord}}).addTo(map)
 {% endif %}{% endfor %}
 </script>
