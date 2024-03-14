@@ -692,7 +692,7 @@
 - name: Javier Hormigo
   affiliation: Professor, University of Málaga, Spain
 - name: Paolo Ienne
-  affiliation: Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+  affiliation: Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 - name: Rubén Gran Tejero
   affiliation: Associate Professor, University of Zaragoza, Spain
 - name: Sergio Cuenca Asensi
@@ -806,4 +806,13 @@
   affiliation: Lecturer, Transilvania University of Brasov, Romania
 - name: Frank Hannig
   affiliation: Senior Researcher & Lecturer, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
-
+- name: Marc Stöttinger
+  affiliation: Professor, RheinMain Hochschule, Germany
+- name: Davide Quaglia
+  affiliation: Professor, Università di Verona, Italy
+- name: Teresa Cervero
+  affiliation: Leading Researcher, Barcelona Supercomputing Center, Spain
+- name: Jose M. Claver
+  affiliation: Professor, Universitat de Valencia, Spain
+- name: Manolis G.H. Katevenis
+  affiliation: Professor, Foundation for Research & Technology - Hellas (FORTH), Greece
