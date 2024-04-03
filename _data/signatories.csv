@@ -1,456 +1,454 @@
 name,job,institution,country,coord
-Kashif Inayat,Senior Research Engineer,Barcelona Supercomputing Center,Spain,"[41.38976,2.11635]"
-Lorenzo Pirrami,Professor,"University of Applied Sciences and Arts Western Switzerland,Fribourg",Switzerland,"[46.80564,7.16034]"
-Matthias Jung,Professor,Julius-Maximilians-Universität of Würzburg,Germany,"[49.78961,9.93587]"
-Robert Weigel,Professor,University of Erlangen-Nuremberg (FAU),Germany,"[49.5731,11.0279]"
-Christian Vogel,Professor,FH JOANNEUM,Austria,"[47.06916,15.40985]"
-José T. de Sousa,Assistant Professor,University of Lisbon,Portugal,"[38.75241,-9.15678]"
-Roberto Giorgi,Associate Professor,University of Siena,Italy,"[43.31417,11.32718]"
-César Fuguet,Research Engineer,CEA-List,France,"[48.71214,2.19440]"
-Frank K. Gürkaynak,Senior Scientist,ETH Zürich,Switzerland,"[47.37638,8.54772]"
-Alfonso Rodríguez,Associate Professor,Universidad Politécnica de Madrid,Spain,"[40.3894,-3.6284]"
-Miquel Moretó,Associate Professor,UPC and BSC,Spain,"[41.38976,2.11635]"
-Markus Müller,Research Associate,TU Dresden,Germany,"[51.02789,13.73070]"
-Juan Luis Aragón,Full Professor,Universidad de Murcia,Spain,"[38.01473,-1.16763]"
-Christian Fabre,Senior Researcher & Engineer,CEA LIST,France,"[48.71214,2.19440]"
-Víctor Soria Pardos,Research Engineer,UPC and BSC,Spain,"[41.38976,2.11635]"
-Olivier Sentieys,Senior Research Director,Inria,France,"[48.1193,-1.6399]"
-Alexandre Menu,Associate Professor,École de mines de Saint-Étienne (IMT),France,"[45.42781,4.40387]"
-Andrea  Bartolini,Associate Professor,University of Bologna,Italy,"[44.4941,11.3418]"
-Alessio Burrello,Post-Doc Researcher,Politecnico di Torino,Italy,"[45.06352,7.65953]"
-Michele Magno,Lecturer & Head of D-ITET center for project-based learning,ETH Zürich,Switzerland,"[47.37638,8.54772]"
-Davide Brunelli,Associate Professor,University of Trento,Italy,"[46.0660,11.1167]"
-Giuseppe Tagliavini,Assistant Professor,University of Bologna,Italy,"[44.4941,11.3418]"
-Philippe Coussy,Professor,"Deputy Director of the Lab-STICC,Université Bretagne Sud",France,"[47.74196,-3.38438]"
-Tommaso Polonelli,Lecturer,"ETH Zürich,Zürich",Switzerland,"[47.37638,8.54772]"
-Alfio Di Mauro,Postdoctoral Researcher,"ETH Zürich,Zürich",Switzerland,"[47.37638,8.54772]"
-Simone Benatti,Assistant Professor,University of Modena and Reggio Emilia,Italy,"[44.70276,10.62901]"
-Marko Kosunen,Senior Researcher,"Aalto University,Espoo",Finland,"[60.1872,24.8287]"
-"Alessandro Capotondi,",Assistant Professor,University of Modena and Reggio Emilia,Italy,"[44.70276,10.62901]"
-Domenico Balsamo,Associate Professor,Newcastle University,United Kingdom,"[54.9800,-1.6147]"
-Frédéric Pétrot,Professor,Grenoble INP/UGA,France,"[45.18448,5.75296]"
-Adrian Evans,Research Engineer,CEA-LIST,France,"[48.71214,2.19440]"
-Jesús Alastruey Benedé,Associate Professor,Universidad de Zaragoza,Spain,"[41.6385,-0.8981]"
-Kevin Martin,Associate Professor,Université de Bretagne-Sud,France,"[47.74196,-3.38438]"
-Jean-Christophe Le Lann,Associate Professor,ENSTA Bretagne,France,"[48.41900,-4.47210]"
-Sandro Pinto,Associate Research Professor,Universidade do Minho,Portugal,"[41.55731,-8.39793]"
-Francesco Conti,Assistant Professor,University of Bologna,Italy,"[44.4941,11.3418]"
-Daniele Jahier Pagliari,Assistant Professor,Politecnico di Torino,Italy,"[45.06352,7.65953]"
-Andrea Cossettini,Research Cooperation Manager and Lecturer,ETH Zürich,Switzerland,"[47.37638,8.54772]"
-Andrea Marongiu,Associate Professor,University of Modena and Reggio Emilia,Italy,"[44.70276,10.62901]"
-Emanuel Mihai Popovici,Director of the Embedded.Systems@UCC Group,University College Cork,Ireland,"[51.8942,-8.4722]"
-Joachim Rodrigues,Head of Integrated Electronic Systems,Lund University,Sweden,"[55.71193,13.21037]"
-David Atienza Alonso,Professor,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,"[46.5192,6.5670]"
-Marian Verhelst,Professor,MICAS at KU Leuven,Belgium,"[50.8791,4.7009]"
-Andreas Burg,Associate Professor,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,"[46.5192,6.5670]"
-Victor Kartsch,Postdoc Researcher,ETH Zürich,Switzerland,"[47.37638,8.54772]"
-Franck Wajsbürt,Lecturer,"Coriolis Foundation hosted by CNRS Foundation,Sorbonne University",France,"[48.84712,2.35693]"
-Mauro Olivieri,Associate Professor,Sapienza University of Rome,Italy,"[41.90286,12.51487]"
-Thomas Benz,Researcher,ETH Zürich,Switzerland,"[47.37638,8.54772]"
-Michelangelo Barocci,Researcher,Politecnico di Torino,Italy,
-Marco Santambrogio,Professor,Politecnico di Milano,Italy,"[45.4781,9.2286]"
-Andrea Pignata,Researcher,Politecnico di Torino,Italy,
-Maria Adelaide Loffa,Research Fellow,Politecnico di Torino,Italy,
-Thorsten Knoll,Researcher,RheinMain University of Applied Sciences,Germany,"[50.09670,8.21679]"
-Edoardo Patti,Associate Professor,Politecnico di Torino,Italy,
-Hussam Amrouch,Professor,Technical University Munich,Germany,
-John Goodenough,Professor,The University of Sheffield,United Kingdom,"[53.38176,-1.48057]"
-Enrico Macii,Professor,Politecnico di Torino,Italy,
-Guillem López Paradís,Researcher,BSC & UPC,Spain,
-Eugenio Villar,Professor,"Universidad de Cantabria,Santander",Spain,"[43.4711,-3.8030]"
-Martin Schoeberl,Professor,Technical University of Denmark,Denmark,"[55.7845,12.5189]"
-Davide Rossi,Associate Professor,University of Bologna,Italy,
-Rafael Natalio Fontana Crespo,Researcher,Politecnico di Torino,Italy,
-Andrea De Iacovo,Assistant Professor,Roma Tre University,Italy,"[41.85508,12.46840]"
-Alberto Carini,Associate Professor,University of Trieste,Italy,"[45.65977,13.79454]"
-Massimo Barbaro,Professor,Università degli Studi di Cagliari,Italy,"[39.22174,9.11682]"
-Daniela De Venuto,Professor,Politecnico di Bari,Italy,"[41.10896,16.87858]"
-Andrea Irace,Professor,"Università di Napoli ""Federico II""",Italy,"[40.82486,14.19505]"
-David Esseni,Professor,University of Udine,Italy,"[46.06985,13.23398]"
-Valerio Vignoli,Professor,University of Siena,Italy,
-Carmine Abbate,Professor,University of Cassino and Southern Lazio,Italy,"[41.28498,13.24379]"
-Paolo Mattavelli,Professor,University of Padova,Italy,"[45.40656,11.87745]"
-Federica Zonzini,Junior Assistant Professor,University of Bologna,Italy,
-Pierpaolo Palestri,Professor,University of Modena and Reggio-Emilia,Italy,
-Luca Roselli,Professor,University of Perugia,Italy,"[43.11623,12.38564]"
-Massimo Ruo Roch,Assistant Professor,Politecnico di Torino,Italy,
-Gianluca Giustolisi,Professor,Università di Catania,Italy,"[37.5036,15.0795]"
-Matthias Auf der Maur,Professor,"Università degli Studi di Roma ""Tor Vergata""",Italy,
-Aldo Minardo,Professor,"Università della Campania ""Luigi Vanvitelli""",Italy,"[40.9753,14.2040]"
-Giovanni Pollo,Researcher,Politecnico di Torino,Italy,
-Christian Falconi,Assistant Professor,University of Rome Tor Vergata,Italy,
-Luca De Marchi,Associate Professor,University of Bologna,Italy,
-Erika Pellegrino,Researcher,HPC Leonardo Labs,Italy,
-Riccardo Pignari,Researcher,Politecnico di Torino,Italy,
-Filippo Mantovani,Established Researcher,Barcelona Supercomputing Center,Spain,
-Santa Di Cataldo,Associate Professor,Politecnico di Torino,Italy,
-Walter Gallego Gomez,Researcher,Politecnico di Torino,Italy,
-Christos Kotselidis,Associate Professor,The University of Manchester,United Kingdom,"[53.4664,-2.2319]"
-Luca Benfenati,Researcher,Politecnico di Torino,Italy,
-Patricio Bulic,Professor,University of Ljubljana,Slovenia,"[46.0542,14.5081]"
-Andrea Acquaviva,Professor,University of Bologna,Italy,
-Pietro Rando Mazzarino,Researhcer,Politecnico di Torino,Italy,
-Claudia De Vizia,Researhcer,Politecnico di Torino,Italy,
-Maurizio Valle,Professor,University of Genova,Italy,"[44.41488,8.92665]"
-Manolis Marazakis,Principal Research Scientist,"Institute of Computer Science,FORTH",Greece,"[35.3062,25.0729]"
-Matthias Güdemann,Professor,Hochschule München University of Applied Sciences,Germany,
-Lodovico Ratti,Professor,University of Pavia,Italy,"[45.18697,9.15690]"
-Marco Tartagni,Professor,University of Bologna,Italy,"[44.1364,12.2426]"
-Enrico Calore,Research Engineer,"INFN & Visiting Professor,University of Ferrara",Italy,"[44.8379,11.6160]"
-Massimo Conti,Professor,Università Politecnica delle Marche,Italy,"[43.6152,13.5176]"
-Andrei Stasi,Associate Professor,"Universitatea Tehnică ""Gheorghe Asachi"" Iaşi",Romania,"[47.1603,27.5846]"
-Luca Selmi,Professor,Università degli Studi di Modena e Reggio Emilia,Italy,
-"Angelo Garofalo,",Junior Assistant Professor,University of Bologna,Italy,
-Mladen Berekovic,Professor,Universität zu Lübeck,Germany,"[53.8642,10.6873]"
-Dionisios Pnevmatikatos,Professor,National Technical University of Athens,Greece,"[37.98782,23.73174]"
-Mateo Valero,Professor and Director,Barcelona Supercomputing Center,Spain,
-Wayne Luk,Professor,Imperial College London,United Kingdom,"[51.49881,-0.17516]"
-Shreejith Shanker,Assistant Professor,Trinity College Dublin,Ireland,"[53.34383,-6.25495]"
-Vittorio Fra,Assistant Professor,Politecnico di Torino,Italy,
-Mădălin Moise,Lecturer,University Politehnica of Bucharest,Romania,"[44.4388,26.0487]"
-Stefano Paraboschi,Professor,University of Bergamo,Italy,"[45.6940,9.6699]"
-Sergio Saponara,Professor,University of Pisa,Italy,"[43.7140,10.4037]"
-Marco Re,Associate Professor,University of Rome Tor Vergata,Italy,
-Marco Carminati,Associate Professor,Politecnico di Milano,Italy,
-Călin Bîră,Associate Professor,University Politehnica of Bucharest,Romania,
-Francesco Daghero,Researcher,Politecnico di Torino,Italy,
-Paolo Meloni,Associate Professor,Università degli Studi di Cagliari,Italy,
-Georgios I. Goumas,Associate Professor,National Technical University of Athens,Greece,
-Jari Nurmi,Professor,"Tampere University,Tampere",Finland,"[61.49378,23.77968]"
-Ian O'Connor,Professor,Ecole Centrale de Lyon,France,"[45.7572,4.8319]"
-Maurizio Martina,Professor,Politecnico di Torino,Italy,
-Xaveer Leijtens,Associate Professor,Eindhoven University of Technology,Netherlands,"[51.4397,5.4777]"
-Christian Fager,Professor,Chalmers University of Technology in Gothenburg,Sweden,"[57.6891,11.9764]"
-Pekka Jääskeläinen,Associate Professor,"Tampere University,Tampere",Finland,
-Dimitrios Soudris,Professor,National Technical University of Athens,Greece,
-Mustak E. Yalcin,Professor,Istanbul Technical University,Turkey,"[41.1049,29.0268]"
-Eleonora Franchi Scarselli,Associate Professor,University of Bologna,Italy,
-Maksim Jenihhin,Associate Professor,Tallinn University of Technology,Estonia,"[59.43936,24.77200]"
-Vishnu Unnikrishnan,Assistant Professor,Tampere University,Finland,
-Federico Alimenti,Associate Professor,University of Perugia,Italy,
-Lorenzo Palma,Assistant Professor,Università Politecnica delle Marche,Italy,
-Kwantae Kim,Established Researcher,ETH Zurich,Switzerland,
-Carmelo Felicetti,Assistant Professor,University of Calabria,Italy,"[39.3623,16.2256]"
-Daniel Große,Professor,Johannes Kepler University Linz,Austria,
-Andy D. Pimentel,Professor,University of Amsterdam,Netherlands,"[52.36809,4.88982]"
-Panagiotis Dimitrakis,Director of Research,"Institute of Nanoscience & Nanotechnology NCSR ""Demokritos""",Greece,"[38.0064,23.8220]"
-Vittorio Zaccaria,Associate Professor,Politecnico di Milano,Italy,
-Stefan Heinen,Professor,RWTH Aachen University,Germany,"[50.7801,6.0674]"
-Jordi Carrabina,Professor,Autonomous University of Barcelona,Spain,
-Stefano Caselli,Professor,University of Parma,Italy,"[44.80416,10.33535]"
-Roberto Vergallo,Assistant Professor,University of Salento,Italy,"[40.35614,18.16757]"
-Jens Sparsø,Professor,Danmarks Tekniske Universitet,Denmark,"[55.7856,12.5208]"
-Martin Andraud,Professor,"UC Louvain,Belgium & Aalto University",Finland,"[50.8389,4.3715]"
-Maurizio Palesi,Associate Professor,University of Catania,Italy,
-Luca Fanucci,Professor,University of Pisa,Italy,
-Gaetano Palumbo,Professor,Università di Catania,Italy,
-Paolo Burgio,Assistant Professor,University of Modena and Reggio Emilia,Italy,
-Antonio Lioy,Professor,Politecnico di Torino,Italy,
-Martin Wilhelm,PostDoc,Otto-von-Guericke-Universität Magdeburg,Germany,"[52.1284,11.6407]"
-Franco Fummi,Professor,Universita' di Verona,Italy,"[45.4372,10.9935]"
-Paolo Bellavista,Professor,University of Bologna,Italy,
-Antonio Pescape',Professor,"University of Napoli ""Federico II""",Italy,
-Massimo Poncino,Professor,Politecnico di Torino,Italy,
-Daniele Passeri,Associate Professor,University of Perugia,Italy,
-Gianluca Palermo,Professor,Politecnico di Milano,Italy,
-Cristiana Bolchini,Professor,Politecnico di Milano,Italy,
-Dario Suarez Gracia,Associate Professor,Universidad de Zaragoza,Spain,
-"Javier Resano,",Associate Professor,Universidad de Zaragoza,Spain,
-"Pasquale Davide Schiavone,",PostDoc,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
-Giovanni Ansaloni,Researcher,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
-Elena Gnani,Associate Professor,University of Bologna,Italy,
-Alexandre Levisse,Senior Scientist,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
-Giuseppe Liotta,Professor,University of Perugia,Italy,
-Màrius Montón,Lecturer,Universitat Autònoma de Barcelona,Spain,
-Giovanni Merlino,Associate Professor,University of Messina,Italy,"[38.2303,15.5515]"
-Sara Vinco,Associate Professor,Politecnico di Torino,Italy,
-Fabio Depaoli,Researcher,Politecnico di Torino,Italy,
-Baptiste Mélès,Researcher,Université de Lorraine,France,"[48.66890,6.15525]"
-Mohamed Amine Hamdi,Researcher,Politecnico di Torino,Italy,
-Dietmar Fey,Professor,Friedrich-Alexander-University Erlangen-Nürnberg (FAU),Germany,
-Letizia Tanca,Professor,Politecnico di Milano,Italy,
-Chang Gao,Assistant Professor,Delft University of Technology,Netherlands,"[51.9974,4.3750]"
-Paulo Flores,Associate Professor,University of Lisbon,Portugal,
-Viktor Razilov,Research Associate,TU Dresden,Germany,
-Luigi Pomante,Assistant Professor,Università degli Studi dell'Aquila,Italy,"[42.3514,13.3930]"
-Michele Caselli,Research Fellow,University of Parma,Italy,
-Milos Krstic,Professor,"University of Potsdam,& Department Head,IHP - Leibniz Institute for High Performance Microelectronics",Germany,"[52.4016,13.0586]"
-Alessandro Aliberti,Associate Professor,Politecnico di Torino,Italy,
-Andreas Koch,Professor,Technical University of Darmstadt,Germany,"[49.8716,8.6538]"
-Alessandro Barenghi,Associate Professor,Politecnico di Milano,Italy,
-Aurélien Francillon,Professor,EURECOM,France,"[43.61437,7.07128]"
-Mario Roberto Casu,Associate Professor,Politecnico di Torino,Italy,
-Paul Pop,Professor,Techical University of Denmark,Denmark,
-Giovanni Busatto,Professor,University of Cassino and southern Lazio,Italy,
-Claudio Giovanni Demartini,Professor,Politecnico di Torino,Italy,
-"Giuseppe Aceto,PhD",Associate Professor,"Universita' degli Studi di Napoli ""Federico II""",Italy,
-Andreas Krall,Associate Professor,TU Wien,Austria,"[48.19850,16.36987]"
-Davide Bertozzi,Reader,University of Manchester,United Kingdom,
-Jean-Michel Portal,Professor,"Deputy Director of IM2NP,Aix-Marseille University",France,"[43.3077,5.3833]"
-Roberto Passerone,Associate Professor,University of Trento,Italy,
-"Sébastien,Le Nours",Associate Professor,University Nantes,France,"[47.2177,-1.5542]"
-Işıl Öz,Assistant Professor,Izmir Institute of Technology,Turkey,"[38.445,27.114]"
-Martin Fränzle,Professor,Carl von Ossietzky Universität Oldenburg,Germany,"[53.14686,8.18131]"
-Jörn Schneider,Professor,Trier University of Applied Sciences,Germany,"[49.76795,6.62874]"
-Daniele Passaretti,Associate Researcher,Otto-von-Guericke University of Magdeburg,Germany,
-David Castells-Rufas,Professor,Universitat Autònoma de Barcelona,Spain,
-Antonio Miele,Associate Professor,Politecnico di Milano,Italy,
-Francesca Palumbo,Associate Professor,Università degli Studi di Cagliari,Italy,
-Alessandro Bertacchini,Assistant Professor,Università degli Studi di Modena e Reggio Emilia,Italy,
-David Mallasén Quintana,Research and Teaching Assistant,Universidad Complutense de Madrid,Spain,"[40.4168,3.7038]"
-Kasim Sinan Yildirim,Associate Professor,University of Trento,Italy,
-Giuseppe Bertuccio,Professor,Politecnico di Milano,Italy,
-Luca Sterpone,Professor,Politecnico di Torino,Italy,
-Axel Jantsch,Professor,TU Wien,Austria,
-Alexander Viehl,Division Manager,Forschungszentrum Informatik in Karlsruhe,Germany,"[49.0069,8.4037]"
-Luis Entrena,Professor,Universidad Carlos III de Madrid,Spain,
-Manuel Gericota,Professor,Polytechnic University of Porto,Portugal,"[41.1579,8.6291]"
-"George Lentaris,",Assistant Professor,University of West Attica,Greece,
-Ovidiu Vermesan,Chief Scientist,"SINTEF Digital,Oslo",Norway,"[59.9139,10.7522]"
-José L. Abellán,PostDoc Researcher,University of Murcia,Spain,
-Jaume Abella,Group Leader,Barcelona Supercomputing Center,Spain,
-Giuseppe Sarda,Researcher,KU Leuven,Belgium,
-Josse Van Delm,Researcher,KU Leuven,Belgium,
-Dirk Koch,Professor,Heidelberg University,Germany,"[49.3988,8.6724]"
-Davide Maltoni,Professor,University of Bologna,Italy,
-Antonio Rubio,Professor,"Universitat Politecnica de Catalunya (UPC),Barcelona",Spain,
-Francesc Moll,Associate Professor,UPC and BSC,Spain,
-Taekwang Jang,Assistant Professor,ETH Zürich,Switzerland,
-Angel Dieguez,Professor,University of Barcelona,Spain,
-René Scholz,Group Leader,IHP,Germany,"[52.3406,14.5483]"
-Vedran Bilas,Professor,University of Zagreb,Croatia,"[45.8058,15.9707]"
-Christoph Studer,Associate Professor,ETH Zürich,Switzerland,
-Kaveh Razavi,Assistant Professor,ETH Zürich,Switzerland,
-Guilherme Paim,Assistant Professor,University of Lisbon,Portugal,
-Manuel Rodriguez,Associate Professor,Universidad de La Laguna,Spain,"[28.48475,-16.31306]"
-Yusuf Leblebici,President,Sabanci University in Istanbul,Turkey,"[40.8896,29.3802]"
-Victor Viñals,Professor,Universidad de Zaragoza,Spain,
-Linus Maurer,Professor,Universität der Bundeswehr,Germany,"[48.0789,11.6348]"
-Lorenzo Bottaccioli,Assistant Professor,Politecnico di Torino,Italy,
-Gracia Ester Martín Garzón,Professor,University of Almeria,Spain,"[36.8489,-2.4527]"
-Luca Barbierato,Assistant Professor,Politecnico di Torino,Italy,
-Pasquale Corsonello,Professor,University of Calabria,Italy,
-Achim D. Brucke,Professor,University of Exeter,United Kingdom,"[50.7338,-3.5321]"
-Mathieu Luisier,Professor,ETH Zürich,Switzerland,
-Eduard Alarcon,Professor,UPC BarcelonaTech,Spain,
-Przemysław Pawełczak,Associate Professor,TU Delft,Netherlands,
-Oscar Plata,Professor,University of Malaga,Spain,"[36.7169,-4.4165]"
-Christian Pilato,Associate Professor,Politecnico di Milano,Italy,
-Arda Yurdakul,Professor,Bogazici University,Turkey,"[41.08367,29.05086]"
-Kostas Siozios,Associate Professor,Aristotle University of Thessaloniki,Greece,"[40.6411,22.9312]"
-Nele Mentens,Professor,KU Leuven & Leiden University,Belgium,"[52.1593,4.4917]"
-Jordi Cortadella,Professor,Universitat Politècnica de Catalunya,Spain,
-Raul Murillo Montero,Research and Teaching Assistant,Universidad Complutense de Madrid,Spain,
-Felix Miller,Professor,Hochschule München University of Applied Sciences,Germany,
 Abdoul Rjoub,Professor,Jordan University of Science and Technology,Jordan (ENP member),"[32.5491,35.8518]"
-Alberto del Barrio,Associate Professor,Universidad Complutense de Madrid,Spain,
-Tomislav Markovic,Assistant Professor,University of Zagreb,Croatia,
-Luigi Lavazza,Associate Professor,Università dell'Insubria,Italy,"[45.8173,8.8303]"
-Michael Karagounis,Professor,Fachhochschule Dortmund,Germany,"[51.5062,7.4568]"
-Fulvio Corno,Professor,Politecnico di Torino,Italy,
-Luis Piñuel,Associate Professor,Universidad Complutense de Madrid,Spain,
-Steffen Reith,Professor,Hochschule RheinMain,Germany,
-Michele Favalli,Associate Professor,University of Ferrara,Italy,
-Danilo Ardagna,Associate Professor,Politecnico di Milano,Italy,
-Lorenzo Colace,Professor,Università degli Studi Roma Tre,Italy,
-Lana Josipović,Assistant Professor,ETH Zürich,Switzerland,
-Hua Wang,Professor,ETH Zürich,Switzerland,
-Charlotte Frenkel,Assistant professor,TU Delft,Netherlands,
-Prof. Giacomo Indiveri,Professor,University of Zürich & ETH Zürich,Switzerland,
-Renaud Pacalet,Professor,Telecom Paris,France,
-Jose Luis Bosque,Professor,Universidad de Cantabria,Spain,
-Ozcan Ozturk,Professor,Sabancı University,Turkey,
-Marek Wójcikowski,Associate Professor,Gdansk University of Technology,Poland,"[54.3981,18.5580]"
-Javier Serrano,Section Leader,CERN,Switzerland,"[46.2340,6.0466]"
-Melika Payvand,Assistant Professor,University of Zurich and ETH Zürich,Switzerland,
-Bartomeu Alorda-Ladaria,Innovation and Transfer knowledge director,University of Balearic Islands,Spain,
-Emanuele Cardillo,Assistant Professor,University of Messina,Italy,
-Tiziano Villa,Professor,Università di Verona,Italy,
-Wladek Grabinski,SPICE Modeling Manager,MOS-AK,Switzerland,
-Andrés Otero,Associate Professor,Universidad Politécnica de Madrid,Spain,
-Tim Güneysu,Professor,Ruhr University Bochum & DFKI,Germany,"[51.4444,7.2611]"
-Christof Paar,Professor,"Ruhr University Bochum & Director,Max Planck Institute for Security and Privacy",Germany,"[51.44453,7.25629]"
-Todor Stefanov,Associate Professor,Leiden University,Netherlands,
-Kim Grüttner,Head of Department,Deutsches Zentrum für Luft- und Raumfahrt,Germany,"[53.14880,8.20037]"
-"Farshad Moradi,",Professor,Aarhus University,Denmark,"[56.1582,10.2015]"
-Stefania Perri,Associate Professor,Università della Calabria,Italy,
-Vassilis Papaefstathiou,Assistant Professor,University of Crete & Institute of Computer Science - FORTH,Greece,
-Goerschwin Fey,Professor,Hamburg University of Technology,Germany,"[53.5436,10.0085]"
-Andrés Goens,Assistant Professor,University of Amsterdam,Netherlands,
-Javier Hormigo,Professor,University of Málaga,Spain,
-Paolo Ienne,Professor,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
-Rubén Gran Tejero,Associate Professor,University of Zaragoza,Spain,
-Sergio Cuenca Asensi,Professor,Universidad de Alicante,Spain,"[38.359,-0.527]"
-Mário Véstias,Coordinator Professor,Polytechnical Institute of Lisbon,Portugal,
-Rui Policarpo Duarte,Adjunct Professor,Instituto Superior de Engenharia de Lisboa,Portugal,
-Pavel Smrz,Associate Professor,Brno University of Technology,Czech Republic,"[49.1920,16.6133]"
-Adrijan Baric,Senior Researcher,University of Zagreb,Croatia,
-Michele Goano,Professor,Politecnico di Torino,Italy,
-Juan Segarra,Associate Professor,Universidad de Zaragoza,Spain,
-Filipe Barradas,Researcher,Instituto de Telecomunicações in Aveiro,Portugal,"[40.651,-8.713]"
-Mirjana Stojilovic,Scientist,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
-Angeles G. Navarro,Professor,University of Malaga,Spain,
-Gabriel Falcão,Assistant Professor,University of Coimbra,Portugal,"[40.2093,-8.4293]"
-Sergei Andreev,Scientist,IHP - Leibniz Institute for High Performance Microelectronics,Germany,
-Tvrtko Mandic,Assistant Professor,University of Zagreb,Croatia,
-Nectarios Koziris,Professor,National Technical University of Athens,Greece,
-Nick Kossifidis,Principal Research Engineer,Institute of Computer Science - FORTH,Greece,
-Horácio Neto,Associate Professor,University of Lisboa,Portugal,
-Rafael Asenjo,Professor,University of Malaga,Spain,
-Frans Skarman,Researcher,Linköping University,Sweden,"[58.4082,15.6246]"
-Paolo Nenzi,Researcher,ENEA,Italy,"[41.8084,12.6799]"
-Daniel Müller-Gritschneder,Adjunct Professor,Technische Universität München,Germany,
-Francisco Tirado,Professor,Universidad Complutense,Spain,
-Mario Auer,Associate Professor,Graz University of Technology,Austria,
-Bastian Löher,Researcher,GSI Helmholtzzentrum,Germany,
-Alberto Tibaldi,Assistant Professor,Politecnico di Torino,Italy,
-Stefan Nikolić,Assistant Professor,University of Novi Sad,Serbia,"[45.2529,19.8269]"
-Thomas Zimmer,Professor,"University of Bordeaux,IMS-Lab",France,"[44.8412,-0.5805]"
-Francesco Centurelli,Assistant Professor,Sapienza Università di Roma,Italy,
-Luciano Lavagno,Professor,Politecnico di Torino,Italy,
-George Christou,PostDoc Researcher,Technical University of Crete,Greece,
-Matthias Bucher,Professor,Technical University of Crete,Greece,
-Sotiris Ioannidis,Associate Professor,Technical University of Crete,Greece,
-Martin Sauter,Professor,Universität der Bundeswehr München,Germany,
-Marko Koricic,Professor,University of Zagreb,Croatia,
-Domingo Benítez,Professor,University of Las Palmas de Gran Canaria,Spain,"[28.1005,-15.4411]"
-Korkut Kaan Tokgoz,Assistant Professor,Sabanci University,Turkey,
-Giacomo Langfelder,Associate Professor,Politecnico di Milano,Italy,
-Vasileios Leon,Senior Researcher,National Technical University of Athens,Greece,
-Luca Barion,Researcher,"INFN - Sezione di Ferrara,Ferrara",Italy,
-Enrico Tronci,Professor,Sapienza University of Rome,Italy,
-George Theodoridis,Associate Professor,Patras University,Greece,"[38.2435,21.7341]"
-Andreas Habegger,Professor,Bern University of Applied Sciences,Switzerland,"[46.9490,7.4526]"
-Ricardo Fernández Pascual,Associate Professor,Universidad de Murcia,Spain,
-Valentina Ciriani,Associate Professor,University of Milan,Italy,
-Franco Zappa,Professor,Politecnico di Milano,Italy,
-Dimitris Lampridis,Researcher,CERN,Switzerland,
-José Soares Augusto,Associate Professor,University of Lisbon,Portugal,
-Vasilis F. Pavlidis,Associate Professor,Aristotle University of Thessaloniki,Greece,
-Fabrizio d’Amore,Professor,Sapienza Università di Roma,Italy,
-Catalin Ciobanu,Lecturer,Transilvania University of Brasov,Romania,
-Frank Hannig,Senior Researcher & Lecturer,Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU),Germany,
-Marc Stöttinger,Professor,RheinMain Hochschule,Germany,
-Davide Quaglia,Professor,Università di Verona,Italy,
-Teresa Cervero,Leading Researcher,Barcelona Supercomputing Center,Spain,
-Jose M. Claver,Professor,Universitat de Valencia,Spain,
-Manolis G.H. Katevenis,Professor,Foundation for Research & Technology - Hellas (FORTH),Greece,
-Arpad Bürmen,Professor,University of Ljubljana,Slovenia,
-Sébastien Pillement,Sébastien Pillement,Professor,Nantes University,"[47.2187,-1.5537]"
-Fabrizio Luccio,Emeritus Professor,University of Pisa,Italy,
-"Arne Symons,",Researcher,KU Leuven,Belgium,
-Tadej Tuma,Professor,University of Ljubljana,Slovenia,
-Tomislav Matić,Professor,University of Osijek,Croatia,"[45.5546,18.6945]"
-Mihai Lazarescu,Politecnico di Torino,Torino,Italy,
-René Mayrhofer,Professor,Johannes Kepler University Linz,Austria,
-Paulo Pedreiras,Assistant Professor,Universidade de Aveiro,Portugal,"[40.6410,-8.6545]"
-Alexander Kloes,Professor,Technische Hochschule Mittelhessen - University of Applied Sciences,Germany,"[50.5860,8.6733]"
-Stefano Grivet-Talocia,Professor,Politecnico di Torino,Italy,
-Giulia Acconcia,Senior Researcher,Politecnico di Milano,Italy,
-Rodrigo Picos,Professor,Universitat de les Illes Balears,Spain,
-Domenico Lembo,Professor,Sapienza University of Rome,Italy,
-Leonardo Lizzi,Associate Professor,University of Trento,Italy,
-Roel Jordans,Assistant Professor,Eindhoven University of Technology,Netherlands,
-Vicente González-Ruiz,Associate Professor,University of Almeria,Spain,
-Louis Ledoux,Researcher,Universitat Politecnica de Catalunya & Barcelona Supercomputing Center,Spain,
-Gregor Lasser,Assistant Professor,Chalmers University of Technology in Gothenburg,Sweden,
-Graziano Pravadelli,Professor,Università di Verona,Italy,
-Daniel Calcoen,Senior Engineer,CERN,Switzerland,
-Valentino Peluso,Assistant Professor,Politecnico di Torino,Italy
-Bartolomeo Montrucchio,Professor,Politecnico di Torino,Italy
-Cataldo Basile,Associate Professor,Politecnico di Torino,Italy
-Fabrizio Lamberti,Professor,Politecnico di Torino,Italy
-Peter Baltus,Professor,TU Eindhoven,Netherlands
-Sergi Abadal,Distinguished Researcher,UPC-BarcelonaTech,Spain
-Agostino Lanza,Technologist Manager,INFN Sezione di Pavia,Italy
-Krzysztof Herman,Scientist,IHP,Germany
-Oscar Gustafsson,Associate Professor,Linköping University,Sweden
-Gianvito Urgese,Assistant Professor,Politecnico di Torino,Italy
-Oliver Lang,University Assistant,Johannes Kepler University Linz,Austria
-Michael Lunglmayr,Professor,Johannes Kepler Universität Linz,Austria
-Marco Crescentini,Associate Professor,University of Bologna,Italy
-Angelo Gargantini,Professor,University of Bergamo,Italy
-Karol Hennessy,Researcher Associate,University of Liverpool,UK,"[53.4071,-2.9794]"
-Daniel Tomaszewski,Senior Research Specialist,Łukasiewicz Research Network in Warsaw,Poland,"[52.2329,21.0003]"
+Achim D. Brucke,Professor,University of Exeter,United Kingdom,"[50.7338,-3.5321]"
 Adam Teman,Associate Professor,Bar Ilan University,Israel,"[32.0710,34.8465]"
-Christos Strydis,Associate Professor,Delft University of Technology,Netherlands,
-Luis Miguel Pinho,Professor,Polytechnic Institute of Porto,Portugal,
-Dimitri Galayko,Professor,Sorbonne Université,France,
-Pietro Buccella,Associate Professor,University of Applied Sciences of Western Switzerland,Switzerland,
-Jean-Paul Chaput,Engineer,Sorbonne Université,France,
-Chiara Guazzoni,Associate Professor,Politecnico di Milano,Italy,
-Antonio Vetrò, Associate Professor, Politecnico di Torino, Italy,
-Hipólito Guzmán-Miranda,Associate Professor,Universidad de Sevilla,Spain,"[37.3882,-5.9944]"
-Beatrice Alessandra Motetti,Researcher,Politecnico di Torino,Italy,
-Marco Mellia,Professor,Politecnico di Torino,Italy,
-Maxime Pelcat,Lecturer,Rennes University,France,
-Daniele Ielmini,Professor,Politecnico di Milano,Italy,
-José Machado da Silva,Associate Professor,Universidade do Porto,Portugal,
-Emanuele Frontoni,Professor, University of Macerata,Italy,"[43.3007,13.4536]"
-Danilo Demarchi,Lecturer,Politecnico di Torino,Italy,
-Carsten Wulff,Associate Professor,Norges teknisk-naturvitenskapelige universitet (NTNU),Norway,"[63.414,10.404]"
-Vihar Georgiev,Professor,University of Glasgow,United Kingdom,"[55.8611,-4.2511]"
-Luis Almeida,Associate Professor,University of Porto,Portugal,
-Kostas Kloukinas,Senior Applied Physicist,CERN,Switzerland,
-Sophie Dupuis, Associate Professor,University of Montpellier,France,"[43.6114,3.8775]"
-Niko Neufeld,Principal Applied Physicist,CERN,Switzerland,
-Anna Bernasconi,Associate Professor,University of Pisa,Italy,
-Carlos García Argos,Electronics Engineer,Albert-Ludwigs-Universität Freiburg,Germany,"[47.9966,7.8452]"
-Norbert Wehn,Professor,University Kaiserslautern-Landau,Germany,"[49.4240,7.7544]"
-Roselyne Chotin,Lecturer,Polytech Sorbonne,France,
-Koen De Bosschere,Professor,Universiteit Gent,Belgium,"[50.97966,3.81972]"
-Kertész Csaba Zoltán,Senior Lecturer,Transilvania University of Brasov,Romania,
-Luca Pezzarossa,Associate Professor,Technical University of Denmark,Denmark,
-Gianluca Furano,Egnineer,European Space Agency in Noordwijk,Netherlands,
-Philippe Benabes,Professor,CentraleSupelec,France,
-Laura Po,Associate Professor,University of Modena and Reggio Emilia,Italy,
-Paolo Crippa,Associate Professor,Università Politecnica delle Marche,Italy,
-Robert Fischbach,PostDoc Researcher,Technische Universität Dresden,Germany,
-David Martin,Lecturer,Polytech Sorbonne University,France,
-Mazher Iqbal,Post-Doc Researcher,Sorboone University,France,
-Ulrich Kühne,Associate Professor,Télécom Paris - Institut polytechnique de Paris, France,
-Francesc Serra-Graells,Associate Professor,Universitat Autònoma de Barcelona,Spain,
-Aleksandar Pajkanovic,Assistant Professor,University of Banja Luka,Bosnia and Herzegovina,"[44.7719,17.1925]"
-Aurel Gontean,Professor,Politehnica University Timisoara,Romania,"[45.7541,21.2286]"
-Marius Enachescu,Lecturer,Politehnica of Bucharest,Romania,
-Cécile Braunstein,Lecturer,Sorbonne University, France,
-Lluís Terés Terés,Associate Professor, Universita Autònoma de Barcelona,Spain,
-Elif Bilge Kavun,Professor,University of Passau,Germany,"[48.5743,13.4599]"
-Sylvain Feruglio,Assistant Professor,Sorbonne Universite, France,
-Wolfgang Kunz,Professor,RPTU Kaiserslautern-Landau,Germany,
-Alberto Bosio,Professor,University of Lyon,France,
-Mickael Dardaillon,Associate Professor,INSA Rennes,France,
-Dario Petri,Professor,University of Trento,Italy,
-Franco Fummi,Professor,Universita' di Verona,Italy,
-Arban Uka,Associate Professor,Epoka University,Albania,"[41.3282,19.8187]"
-Paolo Maistri,Researcher,Centre national de la recherche scientifique (CNRS),France,
-Valentin Egloff,Associate Professor,Université Grenoble Alpes,France,
-Rubén Salvador,Associate Professor,CentraleSupelec IRISA - Inria,France,
-Guillaume Hiet,Professor,CentraleSupélec,France,
-Yvan Tortorella,Researcher,University of Bologna,Italy,
-Antoine Frappé,Associate Professor,JUNIA Engineering School in Lille,France,"[50.6368,3.0636]"
-Berna Örs Yalçın,Istanbul Technical University,Turkey,
-Magdalena Marinca,Assistant Professor,Politehnica University Timisoara,Romania,
-Guy Gogniat,Professor,Université de Bretagne-Sud,France,
-Nuno Paulino,PostDoc Researcher,Centro de Telecomunicações e Multimédia,Portugal,
-Alessandro Palumbo,Associate Professor,CentraleSupélec,France,
-Hamid Kokabi,Professor,Sorbonne University,France,
-Per Stenstrom,Professor,Chalmers University of Technology,Sweden,
-Stefano Di Carlo,Professor,Politecnico di Torino,Italy,
-Ioannis Sourdis,Professor,Chalmers University of Technology,Sweden,
-Lars Svensson,Associate Professor,Chalmers University of Technology,Sweden,
-Giorgio Moscardi,Engineer,CERN,Switzerland,
-Frédéric Rousseau,Professor,Grenoble INP/UGA,France,
-Ana Pinzari,Postdoctoral Researcher,Grenoble INP/UGA,France,
-Jean-Daniel Arnould,Associate Professor,Université Grenoble-Alpes,France,
-Fabio Garzetti,Junior Researcher,Politecnico di Milano,Italy,
-Paolo Maistri,Researcher,Centre national de la recherche scientifique (CNRS),France,
-Ratko Pilipović,Assistant Professor,University of Ljubljana,Sweden,
-Samuel Garcia,Associate Professor, CNAM Paris,France,
-Giorgos Dimitrakopoulos,Associate Professor,Democritus University of Thrace,Greece,"[41.1376,24.8857]"
-Andreas Springer,Professor,Johannes Kepler University,Austria,
-Paolo Motto Ros,Assistant Professor,Politecnico di Torino,Italy,
+Adrian Evans,Research Engineer,CEA-LIST,France,"[48.71214,2.19440]"
 Adrien Prost-Boucle,Research Engineer,Université Grenoble Alpes (UGA),France,
+Adrijan Baric,Senior Researcher,University of Zagreb,Croatia,
+Agostino Lanza,Technologist Manager,INFN Sezione di Pavia,Italy,
+Alberto Bosio,Professor,University of Lyon,France,
+Alberto Carini,Associate Professor,University of Trieste,Italy,"[45.65977,13.79454]"
+Alberto del Barrio,Associate Professor,Universidad Complutense de Madrid,Spain,
+Alberto Tibaldi,Assistant Professor,Politecnico di Torino,Italy,
+Aldo Minardo,Professor,"Università della Campania ""Luigi Vanvitelli""",Italy,"[40.9753,14.2040]"
+Aleksandar Pajkanovic,Assistant Professor,University of Banja Luka,Bosnia and Herzegovina,"[44.7719,17.1925]"
+Alessandro Aliberti,Associate Professor,Politecnico di Torino,Italy,
+Alessandro Barenghi,Associate Professor,Politecnico di Milano,Italy,
+Alessandro Bertacchini,Assistant Professor,Università degli Studi di Modena e Reggio Emilia,Italy,
+Alessandro Capotondi,Assistant Professor,University of Modena and Reggio Emilia,Italy,"[44.70276,10.62901]"
+Alessandro Palumbo,Associate Professor,CentraleSupélec,France,
+Alessio Burrello,Post-Doc Researcher,Politecnico di Torino,Italy,"[45.06352,7.65953]"
+Alexander Kloes,Professor,Technische Hochschule Mittelhessen - University of Applied Sciences,Germany,"[50.5860,8.6733]"
+Alexander Viehl,Division Manager,Forschungszentrum Informatik in Karlsruhe,Germany,"[49.0069,8.4037]"
+Alexandre Levisse,Senior Scientist,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
+Alexandre Menu,Associate Professor,École de mines de Saint-Étienne (IMT),France,"[45.42781,4.40387]"
+Alfio Di Mauro,Postdoctoral Researcher,"ETH Zürich,Zürich",Switzerland,"[47.37638,8.54772]"
+Alfonso Rodríguez,Associate Professor,Universidad Politécnica de Madrid,Spain,"[40.3894,-3.6284]"
+Ana Pinzari,Postdoctoral Researcher,Grenoble INP/UGA,France,
+Andrea  Bartolini,Associate Professor,University of Bologna,Italy,"[44.4941,11.3418]"
+Andrea Acquaviva,Professor,University of Bologna,Italy,
+Andrea Cossettini,Research Cooperation Manager and Lecturer,ETH Zürich,Switzerland,"[47.37638,8.54772]"
+Andrea De Iacovo,Assistant Professor,Roma Tre University,Italy,"[41.85508,12.46840]"
+Andrea Irace,Professor,"Università di Napoli ""Federico II""",Italy,"[40.82486,14.19505]"
+Andrea Marongiu,Associate Professor,University of Modena and Reggio Emilia,Italy,"[44.70276,10.62901]"
+Andrea Pignata,Researcher,Politecnico di Torino,Italy,
+Andreas Burg,Associate Professor,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,"[46.5192,6.5670]"
+Andreas Habegger,Professor,Bern University of Applied Sciences,Switzerland,"[46.9490,7.4526]"
+Andreas Koch,Professor,Technical University of Darmstadt,Germany,"[49.8716,8.6538]"
+Andreas Krall,Associate Professor,TU Wien,Austria,"[48.19850,16.36987]"
+Andreas Springer,Professor,Johannes Kepler University,Austria,
+Andrei Stasi,Associate Professor,"Universitatea Tehnică ""Gheorghe Asachi"" Iaşi",Romania,"[47.1603,27.5846]"
+Andrés Goens,Assistant Professor,University of Amsterdam,Netherlands,
+Andrés Otero,Associate Professor,Universidad Politécnica de Madrid,Spain,
+Andy D. Pimentel,Professor,University of Amsterdam,Netherlands,"[52.36809,4.88982]"
+Angel Dieguez,Professor,University of Barcelona,Spain,
+Angeles G. Navarro,Professor,University of Malaga,Spain,
+Angelo Gargantini,Professor,University of Bergamo,Italy,
+"Angelo Garofalo,",Junior Assistant Professor,University of Bologna,Italy,
+Anna Bernasconi,Associate Professor,University of Pisa,Italy,
+Antoine Frappé,Associate Professor,JUNIA Engineering School in Lille,France,"[50.6368,3.0636]"
+Antonio Lioy,Professor,Politecnico di Torino,Italy,
+Antonio Miele,Associate Professor,Politecnico di Milano,Italy,
+Antonio Pescape',Professor,"University of Napoli ""Federico II""",Italy,
+Antonio Rubio,Professor,"Universitat Politecnica de Catalunya (UPC),Barcelona",Spain,
+Antonio Vetrò, Associate Professor, Politecnico di Torino, Italy,
+Arban Uka,Associate Professor,Epoka University,Albania,"[41.3282,19.8187]"
+Arda Yurdakul,Professor,Bogazici University,Turkey,"[41.08367,29.05086]"
+"Arne Symons,",Researcher,KU Leuven,Belgium,
+Arpad Bürmen,Professor,University of Ljubljana,Slovenia,
+Aurel Gontean,Professor,Politehnica University Timisoara,Romania,"[45.7541,21.2286]"
+Aurélien Francillon,Professor,EURECOM,France,"[43.61437,7.07128]"
+Axel Jantsch,Professor,TU Wien,Austria,
+Baptiste Mélès,Researcher,Université de Lorraine,France,"[48.66890,6.15525]"
+Bartolomeo Montrucchio,Professor,Politecnico di Torino,Italy,
+Bartomeu Alorda-Ladaria,Innovation and Transfer knowledge director,University of Balearic Islands,Spain,
+Bastian Löher,Researcher,GSI Helmholtzzentrum,Germany,
+Beatrice Alessandra Motetti,Researcher,Politecnico di Torino,Italy,
+Berna Örs Yalçın,Istanbul Technical University,Turkey,,
+Călin Bîră,Associate Professor,University Politehnica of Bucharest,Romania,
+Carlos García Argos,Electronics Engineer,Albert-Ludwigs-Universität Freiburg,Germany,"[47.9966,7.8452]"
+Carmelo Felicetti,Assistant Professor,University of Calabria,Italy,"[39.3623,16.2256]"
+Carmine Abbate,Professor,University of Cassino and Southern Lazio,Italy,"[41.28498,13.24379]"
+Carsten Wulff,Associate Professor,Norges teknisk-naturvitenskapelige universitet (NTNU),Norway,"[63.414,10.404]"
+Cataldo Basile,Associate Professor,Politecnico di Torino,Italy,
+Catalin Ciobanu,Lecturer,Transilvania University of Brasov,Romania,
+Cécile Braunstein,Lecturer,Sorbonne University, France,
+César Fuguet,Research Engineer,CEA-List,France,"[48.71214,2.19440]"
+Chang Gao,Assistant Professor,Delft University of Technology,Netherlands,"[51.9974,4.3750]"
+Charlotte Frenkel,Assistant professor,TU Delft,Netherlands,
+Chiara Guazzoni,Associate Professor,Politecnico di Milano,Italy,
+Christian Fabre,Senior Researcher & Engineer,CEA LIST,France,"[48.71214,2.19440]"
+Christian Fager,Professor,Chalmers University of Technology in Gothenburg,Sweden,"[57.6891,11.9764]"
+Christian Falconi,Assistant Professor,University of Rome Tor Vergata,Italy,
+Christian Pilato,Associate Professor,Politecnico di Milano,Italy,
+Christian Vogel,Professor,FH JOANNEUM,Austria,"[47.06916,15.40985]"
+Christof Paar,Professor,"Ruhr University Bochum & Director,Max Planck Institute for Security and Privacy",Germany,"[51.44453,7.25629]"
+Christoph Studer,Associate Professor,ETH Zürich,Switzerland,
+Christos Kotselidis,Associate Professor,The University of Manchester,United Kingdom,"[53.4664,-2.2319]"
+Christos Strydis,Associate Professor,Delft University of Technology,Netherlands,
+Claudia De Vizia,Researhcer,Politecnico di Torino,Italy,
+Claudio Giovanni Demartini,Professor,Politecnico di Torino,Italy,
+Cristiana Bolchini,Professor,Politecnico di Milano,Italy,
+Daniel Calcoen,Senior Engineer,CERN,Switzerland,
+Daniel Große,Professor,Johannes Kepler University Linz,Austria,
+Daniel Müller-Gritschneder,Adjunct Professor,Technische Universität München,Germany,
+Daniel Tomaszewski,Senior Research Specialist,Łukasiewicz Research Network in Warsaw,Poland,"[52.2329,21.0003]"
+Daniela De Venuto,Professor,Politecnico di Bari,Italy,"[41.10896,16.87858]"
+Daniele Ielmini,Professor,Politecnico di Milano,Italy,
+Daniele Jahier Pagliari,Assistant Professor,Politecnico di Torino,Italy,"[45.06352,7.65953]"
+Daniele Passaretti,Associate Researcher,Otto-von-Guericke University of Magdeburg,Germany,
+Daniele Passeri,Associate Professor,University of Perugia,Italy,
+Danilo Ardagna,Associate Professor,Politecnico di Milano,Italy,
+Danilo Demarchi,Lecturer,Politecnico di Torino,Italy,
+Dario Petri,Professor,University of Trento,Italy,
+Dario Suarez Gracia,Associate Professor,Universidad de Zaragoza,Spain,
+David Atienza Alonso,Professor,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,"[46.5192,6.5670]"
+David Castells-Rufas,Professor,Universitat Autònoma de Barcelona,Spain,
+David Esseni,Professor,University of Udine,Italy,"[46.06985,13.23398]"
+David Mallasén Quintana,Research and Teaching Assistant,Universidad Complutense de Madrid,Spain,"[40.4168,3.7038]"
+David Martin,Lecturer,Polytech Sorbonne University,France,
+Davide Bertozzi,Reader,University of Manchester,United Kingdom,
+Davide Brunelli,Associate Professor,University of Trento,Italy,"[46.0660,11.1167]"
+Davide Maltoni,Professor,University of Bologna,Italy,
+Davide Quaglia,Professor,Università di Verona,Italy,
+Davide Rossi,Associate Professor,University of Bologna,Italy,
+Dietmar Fey,Professor,Friedrich-Alexander-University Erlangen-Nürnberg (FAU),Germany,
+Dimitri Galayko,Professor,Sorbonne Université,France,
+Dimitrios Soudris,Professor,National Technical University of Athens,Greece,
+Dimitris Lampridis,Researcher,CERN,Switzerland,
+Dionisios Pnevmatikatos,Professor,National Technical University of Athens,Greece,"[37.98782,23.73174]"
+Dirk Koch,Professor,Heidelberg University,Germany,"[49.3988,8.6724]"
+Domenico Balsamo,Associate Professor,Newcastle University,United Kingdom,"[54.9800,-1.6147]"
+Domenico Lembo,Professor,Sapienza University of Rome,Italy,
+Domingo Benítez,Professor,University of Las Palmas de Gran Canaria,Spain,"[28.1005,-15.4411]"
+Edoardo Patti,Associate Professor,Politecnico di Torino,Italy,
+Eduard Alarcon,Professor,UPC BarcelonaTech,Spain,
+Elena Gnani,Associate Professor,University of Bologna,Italy,
+Eleonora Franchi Scarselli,Associate Professor,University of Bologna,Italy,
+Elif Bilge Kavun,Professor,University of Passau,Germany,"[48.5743,13.4599]"
+Emanuel Mihai Popovici,Director of the Embedded.Systems@UCC Group,University College Cork,Ireland,"[51.8942,-8.4722]"
+Emanuele Cardillo,Assistant Professor,University of Messina,Italy,
+Emanuele Frontoni,Professor, University of Macerata,Italy,"[43.3007,13.4536]"
+Enrico Calore,Research Engineer,"INFN & Visiting Professor,University of Ferrara",Italy,"[44.8379,11.6160]"
+Enrico Macii,Professor,Politecnico di Torino,Italy,
+Enrico Tronci,Professor,Sapienza University of Rome,Italy,
+Erika Pellegrino,Researcher,HPC Leonardo Labs,Italy,
+Eugenio Villar,Professor,"Universidad de Cantabria,Santander",Spain,"[43.4711,-3.8030]"
+Fabio Depaoli,Researcher,Politecnico di Torino,Italy,
+Fabio Garzetti,Junior Researcher,Politecnico di Milano,Italy,
+Fabrizio d’Amore,Professor,Sapienza Università di Roma,Italy,
+Fabrizio Lamberti,Professor,Politecnico di Torino,Italy,
+Fabrizio Luccio,Emeritus Professor,University of Pisa,Italy,
+"Farshad Moradi,",Professor,Aarhus University,Denmark,"[56.1582,10.2015]"
+Federica Zonzini,Junior Assistant Professor,University of Bologna,Italy,
+Federico Alimenti,Associate Professor,University of Perugia,Italy,
+Felix Miller,Professor,Hochschule München University of Applied Sciences,Germany,
+Filipe Barradas,Researcher,Instituto de Telecomunicações in Aveiro,Portugal,"[40.651,-8.713]"
+Filippo Mantovani,Established Researcher,Barcelona Supercomputing Center,Spain,
+Francesc Moll,Associate Professor,UPC and BSC,Spain,
+Francesc Serra-Graells,Associate Professor,Universitat Autònoma de Barcelona,Spain,
+Francesca Palumbo,Associate Professor,Università degli Studi di Cagliari,Italy,
+Francesco Centurelli,Assistant Professor,Sapienza Università di Roma,Italy,
+Francesco Conti,Assistant Professor,University of Bologna,Italy,"[44.4941,11.3418]"
+Francesco Daghero,Researcher,Politecnico di Torino,Italy,
+Francisco Tirado,Professor,Universidad Complutense,Spain,
+Franck Wajsbürt,Lecturer,"Coriolis Foundation hosted by CNRS Foundation,Sorbonne University",France,"[48.84712,2.35693]"
+Franco Fummi,Professor,Universita' di Verona,Italy,"[45.4372,10.9935]"
+Franco Zappa,Professor,Politecnico di Milano,Italy,
+Frank Hannig,Senior Researcher & Lecturer,Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU),Germany,
+Frank K. Gürkaynak,Senior Scientist,ETH Zürich,Switzerland,"[47.37638,8.54772]"
+Frans Skarman,Researcher,Linköping University,Sweden,"[58.4082,15.6246]"
+Frédéric Pétrot,Professor,Grenoble INP/UGA,France,"[45.18448,5.75296]"
+Frédéric Rousseau,Professor,Grenoble INP/UGA,France,
+Fulvio Corno,Professor,Politecnico di Torino,Italy,
+Gabriel Falcão,Assistant Professor,University of Coimbra,Portugal,"[40.2093,-8.4293]"
+Gaetano Palumbo,Professor,Università di Catania,Italy,
+George Christou,PostDoc Researcher,Technical University of Crete,Greece,
+"George Lentaris,",Assistant Professor,University of West Attica,Greece,
+George Theodoridis,Associate Professor,Patras University,Greece,"[38.2435,21.7341]"
+Georgios I. Goumas,Associate Professor,National Technical University of Athens,Greece,
+Giacomo Langfelder,Associate Professor,Politecnico di Milano,Italy,
+Gianluca Furano,Egnineer,European Space Agency in Noordwijk,Netherlands,
+Gianluca Giustolisi,Professor,Università di Catania,Italy,"[37.5036,15.0795]"
+Gianluca Palermo,Professor,Politecnico di Milano,Italy,
+Gianvito Urgese,Assistant Professor,Politecnico di Torino,Italy,
+Giorgio Moscardi,Engineer,CERN,Switzerland,
+Giorgos Dimitrakopoulos,Associate Professor,Democritus University of Thrace,Greece,"[41.1376,24.8857]"
+Giovanni Ansaloni,Researcher,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
+Giovanni Busatto,Professor,University of Cassino and southern Lazio,Italy,
+Giovanni Merlino,Associate Professor,University of Messina,Italy,"[38.2303,15.5515]"
+Giovanni Pollo,Researcher,Politecnico di Torino,Italy,
+Giulia Acconcia,Senior Researcher,Politecnico di Milano,Italy,
+"Giuseppe Aceto,PhD",Associate Professor,"Universita' degli Studi di Napoli ""Federico II""",Italy,
+Giuseppe Bertuccio,Professor,Politecnico di Milano,Italy,
+Giuseppe Liotta,Professor,University of Perugia,Italy,
+Giuseppe Sarda,Researcher,KU Leuven,Belgium,
+Giuseppe Tagliavini,Assistant Professor,University of Bologna,Italy,"[44.4941,11.3418]"
+Goerschwin Fey,Professor,Hamburg University of Technology,Germany,"[53.5436,10.0085]"
+Gracia Ester Martín Garzón,Professor,University of Almeria,Spain,"[36.8489,-2.4527]"
+Graziano Pravadelli,Professor,Università di Verona,Italy,
+Gregor Lasser,Assistant Professor,Chalmers University of Technology in Gothenburg,Sweden,
+Guilherme Paim,Assistant Professor,University of Lisbon,Portugal,
+Guillaume Hiet,Professor,CentraleSupélec,France,
+Guillem López Paradís,Researcher,BSC & UPC,Spain,
+Guy Gogniat,Professor,Université de Bretagne-Sud,France,
+Hamid Kokabi,Professor,Sorbonne University,France,
+Hipólito Guzmán-Miranda,Associate Professor,Universidad de Sevilla,Spain,"[37.3882,-5.9944]"
+Horácio Neto,Associate Professor,University of Lisboa,Portugal,
+Hua Wang,Professor,ETH Zürich,Switzerland,
+Hussam Amrouch,Professor,Technical University Munich,Germany,
+Ian O'Connor,Professor,Ecole Centrale de Lyon,France,"[45.7572,4.8319]"
+Ioannis Sourdis,Professor,Chalmers University of Technology,Sweden,
+Işıl Öz,Assistant Professor,Izmir Institute of Technology,Turkey,"[38.445,27.114]"
+Jari Nurmi,Professor,"Tampere University,Tampere",Finland,"[61.49378,23.77968]"
+Jaume Abella,Group Leader,Barcelona Supercomputing Center,Spain,
+Javier Hormigo,Professor,University of Málaga,Spain,
+"Javier Resano,",Associate Professor,Universidad de Zaragoza,Spain,
+Javier Serrano,Section Leader,CERN,Switzerland,"[46.2340,6.0466]"
+Jean-Christophe Le Lann,Associate Professor,ENSTA Bretagne,France,"[48.41900,-4.47210]"
+Jean-Daniel Arnould,Associate Professor,Université Grenoble-Alpes,France,
+Jean-Michel Portal,Professor,"Deputy Director of IM2NP,Aix-Marseille University",France,"[43.3077,5.3833]"
+Jean-Paul Chaput,Engineer,Sorbonne Université,France,
+Jens Sparsø,Professor,Danmarks Tekniske Universitet,Denmark,"[55.7856,12.5208]"
+Jesús Alastruey Benedé,Associate Professor,Universidad de Zaragoza,Spain,"[41.6385,-0.8981]"
+Joachim Rodrigues,Head of Integrated Electronic Systems,Lund University,Sweden,"[55.71193,13.21037]"
+John Goodenough,Professor,The University of Sheffield,United Kingdom,"[53.38176,-1.48057]"
+Jordi Carrabina,Professor,Autonomous University of Barcelona,Spain,
+Jordi Cortadella,Professor,Universitat Politècnica de Catalunya,Spain,
+Jörn Schneider,Professor,Trier University of Applied Sciences,Germany,"[49.76795,6.62874]"
+José L. Abellán,PostDoc Researcher,University of Murcia,Spain,
+Jose Luis Bosque,Professor,Universidad de Cantabria,Spain,
+Jose M. Claver,Professor,Universitat de Valencia,Spain,
+José Machado da Silva,Associate Professor,Universidade do Porto,Portugal,
+José Soares Augusto,Associate Professor,University of Lisbon,Portugal,
+José T. de Sousa,Assistant Professor,University of Lisbon,Portugal,"[38.75241,-9.15678]"
+Josse Van Delm,Researcher,KU Leuven,Belgium,
+Juan Luis Aragón,Full Professor,Universidad de Murcia,Spain,"[38.01473,-1.16763]"
+Juan Segarra,Associate Professor,Universidad de Zaragoza,Spain,
+Karol Hennessy,Researcher Associate,University of Liverpool,UK,"[53.4071,-2.9794]"
+Kashif Inayat,Senior Research Engineer,Barcelona Supercomputing Center,Spain,"[41.38976,2.11635]"
+Kasim Sinan Yildirim,Associate Professor,University of Trento,Italy,
+Kaveh Razavi,Assistant Professor,ETH Zürich,Switzerland,
+Kertész Csaba Zoltán,Senior Lecturer,Transilvania University of Brasov,Romania,
+Kevin Martin,Associate Professor,Université de Bretagne-Sud,France,"[47.74196,-3.38438]"
+Kim Grüttner,Head of Department,Deutsches Zentrum für Luft- und Raumfahrt,Germany,"[53.14880,8.20037]"
+Koen De Bosschere,Professor,Universiteit Gent,Belgium,"[50.97966,3.81972]"
+Korkut Kaan Tokgoz,Assistant Professor,Sabanci University,Turkey,
+Kostas Kloukinas,Senior Applied Physicist,CERN,Switzerland,
+Kostas Siozios,Associate Professor,Aristotle University of Thessaloniki,Greece,"[40.6411,22.9312]"
+Krzysztof Herman,Scientist,IHP,Germany,
+Kwantae Kim,Established Researcher,ETH Zurich,Switzerland,
+Lana Josipović,Assistant Professor,ETH Zürich,Switzerland,
+Lars Svensson,Associate Professor,Chalmers University of Technology,Sweden,
+Laura Po,Associate Professor,University of Modena and Reggio Emilia,Italy,
+Leonardo Lizzi,Associate Professor,University of Trento,Italy,
+Letizia Tanca,Professor,Politecnico di Milano,Italy,
+Linus Maurer,Professor,Universität der Bundeswehr,Germany,"[48.0789,11.6348]"
 Lionel Trojman,Director,Isep,France,
-Quentin Delhaye,Lecturer,ECAM,Belgium,
+Lluís Terés Terés,Associate Professor, Universita Autònoma de Barcelona,Spain,
+Lodovico Ratti,Professor,University of Pavia,Italy,"[45.18697,9.15690]"
+Lorenzo Bottaccioli,Assistant Professor,Politecnico di Torino,Italy,
+Lorenzo Colace,Professor,Università degli Studi Roma Tre,Italy,
+Lorenzo Palma,Assistant Professor,Università Politecnica delle Marche,Italy,
+Lorenzo Pirrami,Professor,"University of Applied Sciences and Arts Western Switzerland,Fribourg",Switzerland,"[46.80564,7.16034]"
+Louis Ledoux,Researcher,Universitat Politecnica de Catalunya & Barcelona Supercomputing Center,Spain,
+Luca Barbierato,Assistant Professor,Politecnico di Torino,Italy,
+Luca Barion,Researcher,"INFN - Sezione di Ferrara,Ferrara",Italy,
+Luca Benfenati,Researcher,Politecnico di Torino,Italy,
+Luca De Marchi,Associate Professor,University of Bologna,Italy,
+Luca Fanucci,Professor,University of Pisa,Italy,
+Luca Pezzarossa,Associate Professor,Technical University of Denmark,Denmark,
+Luca Roselli,Professor,University of Perugia,Italy,"[43.11623,12.38564]"
+Luca Selmi,Professor,Università degli Studi di Modena e Reggio Emilia,Italy,
+Luca Sterpone,Professor,Politecnico di Torino,Italy,
+Luciano Lavagno,Professor,Politecnico di Torino,Italy,
+Luigi Lavazza,Associate Professor,Università dell'Insubria,Italy,"[45.8173,8.8303]"
+Luigi Pomante,Assistant Professor,Università degli Studi dell'Aquila,Italy,"[42.3514,13.3930]"
+Luis Almeida,Associate Professor,University of Porto,Portugal,
+Luis Entrena,Professor,Universidad Carlos III de Madrid,Spain,
+Luis Miguel Pinho,Professor,Polytechnic Institute of Porto,Portugal,
+Luis Piñuel,Associate Professor,Universidad Complutense de Madrid,Spain,
+Mădălin Moise,Lecturer,University Politehnica of Bucharest,Romania,"[44.4388,26.0487]"
+Magdalena Marinca,Assistant Professor,Politehnica University Timisoara,Romania,
+Maksim Jenihhin,Associate Professor,Tallinn University of Technology,Estonia,"[59.43936,24.77200]"
+Manolis G.H. Katevenis,Professor,Foundation for Research & Technology - Hellas (FORTH),Greece,
+Manolis Marazakis,Principal Research Scientist,"Institute of Computer Science,FORTH",Greece,"[35.3062,25.0729]"
+Manuel Gericota,Professor,Polytechnic University of Porto,Portugal,"[41.1579,8.6291]"
+Manuel Rodriguez,Associate Professor,Universidad de La Laguna,Spain,"[28.48475,-16.31306]"
+Marc Stöttinger,Professor,RheinMain Hochschule,Germany,
+Marco Carminati,Associate Professor,Politecnico di Milano,Italy,
+Marco Crescentini,Associate Professor,University of Bologna,Italy,
+Marco Mellia,Professor,Politecnico di Torino,Italy,
+Marco Re,Associate Professor,University of Rome Tor Vergata,Italy,
+Marco Santambrogio,Professor,Politecnico di Milano,Italy,"[45.4781,9.2286]"
+Marco Tartagni,Professor,University of Bologna,Italy,"[44.1364,12.2426]"
+Marek Wójcikowski,Associate Professor,Gdansk University of Technology,Poland,"[54.3981,18.5580]"
+Maria Adelaide Loffa,Research Fellow,Politecnico di Torino,Italy,
+Marian Verhelst,Professor,MICAS at KU Leuven,Belgium,"[50.8791,4.7009]"
+Mario Auer,Associate Professor,Graz University of Technology,Austria,
+Mario Roberto Casu,Associate Professor,Politecnico di Torino,Italy,
+Mário Véstias,Coordinator Professor,Polytechnical Institute of Lisbon,Portugal,
+Marius Enachescu,Lecturer,Politehnica of Bucharest,Romania,
+Màrius Montón,Lecturer,Universitat Autònoma de Barcelona,Spain,
+Marko Koricic,Professor,University of Zagreb,Croatia,
+Marko Kosunen,Senior Researcher,"Aalto University,Espoo",Finland,"[60.1872,24.8287]"
+Markus Müller,Research Associate,TU Dresden,Germany,"[51.02789,13.73070]"
+Martin Andraud,Professor,"UC Louvain,Belgium & Aalto University",Finland,"[50.8389,4.3715]"
+Martin Fränzle,Professor,Carl von Ossietzky Universität Oldenburg,Germany,"[53.14686,8.18131]"
+Martin Sauter,Professor,Universität der Bundeswehr München,Germany,
+Martin Schoeberl,Professor,Technical University of Denmark,Denmark,"[55.7845,12.5189]"
+Martin Wilhelm,PostDoc,Otto-von-Guericke-Universität Magdeburg,Germany,"[52.1284,11.6407]"
+Massimo Barbaro,Professor,Università degli Studi di Cagliari,Italy,"[39.22174,9.11682]"
+Massimo Conti,Professor,Università Politecnica delle Marche,Italy,"[43.6152,13.5176]"
+Massimo Poncino,Professor,Politecnico di Torino,Italy,
+Massimo Ruo Roch,Assistant Professor,Politecnico di Torino,Italy,
+Mateo Valero,Professor and Director,Barcelona Supercomputing Center,Spain,
+Mathieu Luisier,Professor,ETH Zürich,Switzerland,
+Matthias Auf der Maur,Professor,"Università degli Studi di Roma ""Tor Vergata""",Italy,
+Matthias Bucher,Professor,Technical University of Crete,Greece,
+Matthias Güdemann,Professor,Hochschule München University of Applied Sciences,Germany,
+Matthias Jung,Professor,Julius-Maximilians-Universität of Würzburg,Germany,"[49.78961,9.93587]"
+Maurizio Martina,Professor,Politecnico di Torino,Italy,
+Maurizio Palesi,Associate Professor,University of Catania,Italy,
+Maurizio Valle,Professor,University of Genova,Italy,"[44.41488,8.92665]"
+Mauro Olivieri,Associate Professor,Sapienza University of Rome,Italy,"[41.90286,12.51487]"
+Maxime Pelcat,Lecturer,Rennes University,France,
+Mazher Iqbal,Post-Doc Researcher,Sorboone University,France,
+Melika Payvand,Assistant Professor,University of Zurich and ETH Zürich,Switzerland,
+Michael Karagounis,Professor,Fachhochschule Dortmund,Germany,"[51.5062,7.4568]"
+Michael Lunglmayr,Professor,Johannes Kepler Universität Linz,Austria,
+Michelangelo Barocci,Researcher,Politecnico di Torino,Italy,
+Michele Caselli,Research Fellow,University of Parma,Italy,
+Michele Favalli,Associate Professor,University of Ferrara,Italy,
+Michele Goano,Professor,Politecnico di Torino,Italy,
+Michele Magno,Lecturer & Head of D-ITET center for project-based learning,ETH Zürich,Switzerland,"[47.37638,8.54772]"
 Michele Portolan,Senior Associate Professor,Grenoble INP/UGA,France,
+Mickael Dardaillon,Associate Professor,INSA Rennes,France,
+Mihai Lazarescu,Politecnico di Torino,Torino,Italy,
+Milos Krstic,Professor,"University of Potsdam,& Department Head,IHP - Leibniz Institute for High Performance Microelectronics",Germany,"[52.4016,13.0586]"
+Miquel Moretó,Associate Professor,UPC and BSC,Spain,"[41.38976,2.11635]"
+Mirjana Stojilovic,Scientist,Ecole Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
+Mladen Berekovic,Professor,Universität zu Lübeck,Germany,"[53.8642,10.6873]"
+Mohamed Amine Hamdi,Researcher,Politecnico di Torino,Italy,
+Mustak E. Yalcin,Professor,Istanbul Technical University,Turkey,"[41.1049,29.0268]"
+Nectarios Koziris,Professor,National Technical University of Athens,Greece,
+Nele Mentens,Professor,KU Leuven & Leiden University,Belgium,"[52.1593,4.4917]"
+Nick Kossifidis,Principal Research Engineer,Institute of Computer Science - FORTH,Greece,
+Niko Neufeld,Principal Applied Physicist,CERN,Switzerland,
+Norbert Wehn,Professor,University Kaiserslautern-Landau,Germany,"[49.4240,7.7544]"
+Nuno Paulino,PostDoc Researcher,Centro de Telecomunicações e Multimédia,Portugal,
+Oliver Lang,University Assistant,Johannes Kepler University Linz,Austria,
+Olivier Sentieys,Senior Research Director,Inria,France,"[48.1193,-1.6399]"
+Oscar Gustafsson,Associate Professor,Linköping University,Sweden,
+Oscar Plata,Professor,University of Malaga,Spain,"[36.7169,-4.4165]"
+Ovidiu Vermesan,Chief Scientist,"SINTEF Digital,Oslo",Norway,"[59.9139,10.7522]"
+Ozcan Ozturk,Professor,Sabancı University,Turkey,
+Panagiotis Dimitrakis,Director of Research,"Institute of Nanoscience & Nanotechnology NCSR ""Demokritos""",Greece,"[38.0064,23.8220]"
+Paolo Bellavista,Professor,University of Bologna,Italy,
+Paolo Burgio,Assistant Professor,University of Modena and Reggio Emilia,Italy,
+Paolo Crippa,Associate Professor,Università Politecnica delle Marche,Italy,
+Paolo Ienne,Professor,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
+Paolo Maistri,Researcher,Centre national de la recherche scientifique (CNRS),France,
+Paolo Mattavelli,Professor,University of Padova,Italy,"[45.40656,11.87745]"
+Paolo Meloni,Associate Professor,Università degli Studi di Cagliari,Italy,
+Paolo Motto Ros,Assistant Professor,Politecnico di Torino,Italy,
+Paolo Nenzi,Researcher,ENEA,Italy,"[41.8084,12.6799]"
+Pasquale Corsonello,Professor,University of Calabria,Italy,
+"Pasquale Davide Schiavone,",PostDoc,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,
+Patricio Bulic,Professor,University of Ljubljana,Slovenia,"[46.0542,14.5081]"
+Paul Pop,Professor,Techical University of Denmark,Denmark,
+Paulo Flores,Associate Professor,University of Lisbon,Portugal,
+Paulo Pedreiras,Assistant Professor,Universidade de Aveiro,Portugal,"[40.6410,-8.6545]"
+Pavel Smrz,Associate Professor,Brno University of Technology,Czech Republic,"[49.1920,16.6133]"
+Pekka Jääskeläinen,Associate Professor,"Tampere University,Tampere",Finland,
+Per Stenstrom,Professor,Chalmers University of Technology,Sweden,
+Peter Baltus,Professor,TU Eindhoven,Netherlands,
+Philippe Benabes,Professor,CentraleSupelec,France,
+Philippe Coussy,Professor,"Deputy Director of the Lab-STICC,Université Bretagne Sud",France,"[47.74196,-3.38438]"
+Pierpaolo Palestri,Professor,University of Modena and Reggio-Emilia,Italy,
+Pietro Buccella,Associate Professor,University of Applied Sciences of Western Switzerland,Switzerland,
+Pietro Rando Mazzarino,Researhcer,Politecnico di Torino,Italy,
+Prof. Giacomo Indiveri,Professor,University of Zürich & ETH Zürich,Switzerland,
+Przemysław Pawełczak,Associate Professor,TU Delft,Netherlands,
+Quentin Delhaye,Lecturer,ECAM,Belgium,
+Rafael Asenjo,Professor,University of Malaga,Spain,
+Rafael Natalio Fontana Crespo,Researcher,Politecnico di Torino,Italy,
+Ratko Pilipović,Assistant Professor,University of Ljubljana,Sweden,
+Raul Murillo Montero,Research and Teaching Assistant,Universidad Complutense de Madrid,Spain,
+Renaud Pacalet,Professor,Telecom Paris,France,
+René Mayrhofer,Professor,Johannes Kepler University Linz,Austria,
+René Scholz,Group Leader,IHP,Germany,"[52.3406,14.5483]"
+Ricardo Fernández Pascual,Associate Professor,Universidad de Murcia,Spain,
+Riccardo Pignari,Researcher,Politecnico di Torino,Italy,
+Robert Fischbach,PostDoc Researcher,Technische Universität Dresden,Germany,
+Robert Weigel,Professor,University of Erlangen-Nuremberg (FAU),Germany,"[49.5731,11.0279]"
+Roberto Giorgi,Associate Professor,University of Siena,Italy,"[43.31417,11.32718]"
+Roberto Passerone,Associate Professor,University of Trento,Italy,
+Roberto Vergallo,Assistant Professor,University of Salento,Italy,"[40.35614,18.16757]"
+Rodrigo Picos,Professor,Universitat de les Illes Balears,Spain,
+Roel Jordans,Assistant Professor,Eindhoven University of Technology,Netherlands,
+Roselyne Chotin,Lecturer,Polytech Sorbonne,France,
+Rubén Gran Tejero,Associate Professor,University of Zaragoza,Spain,
+Rubén Salvador,Associate Professor,CentraleSupelec IRISA - Inria,France,
+Rui Policarpo Duarte,Adjunct Professor,Instituto Superior de Engenharia de Lisboa,Portugal,
+Samuel Garcia,Associate Professor, CNAM Paris,France,
+Sandro Pinto,Associate Research Professor,Universidade do Minho,Portugal,"[41.55731,-8.39793]"
+Santa Di Cataldo,Associate Professor,Politecnico di Torino,Italy,
+Sara Vinco,Associate Professor,Politecnico di Torino,Italy,
+Sébastien Pillement,Sébastien Pillement,Professor,Nantes University,"[47.2187,-1.5537]"
+"Sébastien,Le Nours",Associate Professor,University Nantes,France,"[47.2177,-1.5542]"
+Sergei Andreev,Scientist,IHP - Leibniz Institute for High Performance Microelectronics,Germany,
+Sergi Abadal,Distinguished Researcher,UPC-BarcelonaTech,Spain,
+Sergio Cuenca Asensi,Professor,Universidad de Alicante,Spain,"[38.359,-0.527]"
+Sergio Saponara,Professor,University of Pisa,Italy,"[43.7140,10.4037]"
+Shreejith Shanker,Assistant Professor,Trinity College Dublin,Ireland,"[53.34383,-6.25495]"
+Simone Benatti,Assistant Professor,University of Modena and Reggio Emilia,Italy,"[44.70276,10.62901]"
+Sophie Dupuis, Associate Professor,University of Montpellier,France,"[43.6114,3.8775]"
+Sotiris Ioannidis,Associate Professor,Technical University of Crete,Greece,
+Stefan Heinen,Professor,RWTH Aachen University,Germany,"[50.7801,6.0674]"
+Stefan Nikolić,Assistant Professor,University of Novi Sad,Serbia,"[45.2529,19.8269]"
+Stefania Perri,Associate Professor,Università della Calabria,Italy,
+Stefano Caselli,Professor,University of Parma,Italy,"[44.80416,10.33535]"
+Stefano Di Carlo,Professor,Politecnico di Torino,Italy,
+Stefano Grivet-Talocia,Professor,Politecnico di Torino,Italy,
+Stefano Paraboschi,Professor,University of Bergamo,Italy,"[45.6940,9.6699]"
+Steffen Reith,Professor,Hochschule RheinMain,Germany,
+Sylvain Feruglio,Assistant Professor,Sorbonne Universite, France,
+Tadej Tuma,Professor,University of Ljubljana,Slovenia,
+Taekwang Jang,Assistant Professor,ETH Zürich,Switzerland,
+Teresa Cervero,Leading Researcher,Barcelona Supercomputing Center,Spain,
+Thomas Benz,Researcher,ETH Zürich,Switzerland,"[47.37638,8.54772]"
+Thomas Zimmer,Professor,"University of Bordeaux,IMS-Lab",France,"[44.8412,-0.5805]"
+Thorsten Knoll,Researcher,RheinMain University of Applied Sciences,Germany,"[50.09670,8.21679]"
+Tim Güneysu,Professor,Ruhr University Bochum & DFKI,Germany,"[51.4444,7.2611]"
+Tiziano Villa,Professor,Università di Verona,Italy,
+Todor Stefanov,Associate Professor,Leiden University,Netherlands,
+Tomislav Markovic,Assistant Professor,University of Zagreb,Croatia,
+Tomislav Matić,Professor,University of Osijek,Croatia,"[45.5546,18.6945]"
+Tommaso Polonelli,Lecturer,"ETH Zürich,Zürich",Switzerland,"[47.37638,8.54772]"
+Tvrtko Mandic,Assistant Professor,University of Zagreb,Croatia,
+Ulrich Kühne,Associate Professor,Télécom Paris - Institut polytechnique de Paris, France,
+Valentin Egloff,Associate Professor,Université Grenoble Alpes,France,
+Valentina Ciriani,Associate Professor,University of Milan,Italy,
+Valentino Peluso,Assistant Professor,Politecnico di Torino,Italy,
+Valerio Vignoli,Professor,University of Siena,Italy,
+Vasileios Leon,Senior Researcher,National Technical University of Athens,Greece,
+Vasilis F. Pavlidis,Associate Professor,Aristotle University of Thessaloniki,Greece,
+Vassilis Papaefstathiou,Assistant Professor,University of Crete & Institute of Computer Science - FORTH,Greece,
+Vedran Bilas,Professor,University of Zagreb,Croatia,"[45.8058,15.9707]"
+Vicente González-Ruiz,Associate Professor,University of Almeria,Spain,
+Victor Kartsch,Postdoc Researcher,ETH Zürich,Switzerland,"[47.37638,8.54772]"
+Víctor Soria Pardos,Research Engineer,UPC and BSC,Spain,"[41.38976,2.11635]"
+Victor Viñals,Professor,Universidad de Zaragoza,Spain,
+Vihar Georgiev,Professor,University of Glasgow,United Kingdom,"[55.8611,-4.2511]"
+Viktor Razilov,Research Associate,TU Dresden,Germany,
+Vishnu Unnikrishnan,Assistant Professor,Tampere University,Finland,
+Vittorio Fra,Assistant Professor,Politecnico di Torino,Italy,
+Vittorio Zaccaria,Associate Professor,Politecnico di Milano,Italy,
+Walter Gallego Gomez,Researcher,Politecnico di Torino,Italy,
+Wayne Luk,Professor,Imperial College London,United Kingdom,"[51.49881,-0.17516]"
+Wladek Grabinski,SPICE Modeling Manager,MOS-AK,Switzerland,
+Wolfgang Kunz,Professor,RPTU Kaiserslautern-Landau,Germany,
+Xaveer Leijtens,Associate Professor,Eindhoven University of Technology,Netherlands,"[51.4397,5.4777]"
+Yusuf Leblebici,President,Sabanci University in Istanbul,Turkey,"[40.8896,29.3802]"
+Yvan Tortorella,Researcher,University of Bologna,Italy,
