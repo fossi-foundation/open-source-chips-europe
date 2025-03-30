@@ -33,6 +33,6 @@ Thank you for your consideration.
 
 {% assign signatories = site.data.signatories %}
 {% for sign in signatories %}
-**{{ sign.name }}**, <i>{{ sign.job }}, {{ sign.institution }}, {{ sign.country }}</i>
+**{{ sign.name }}** - <i>{{ sign.affiliation }} - {{ sign.country }}</i>
 {% endfor %}
 
