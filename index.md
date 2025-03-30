@@ -36,7 +36,7 @@ the signatories
 
 <a class="button" href="https://forms.gle/KmGccDJgLCXnoHUy9">Sign (please note: delay until added below)</a>
 
-*(responsible authors: Stefan Wallentowitz, Frank Gurkaynak, Luca Benini; supported by [FOSSi Foundation](https://fossi-foundation.org))*
+*(responsible authors: Stefan Wallentowitz, Frank K. Gürkaynak, Luca Benini; supported by [FOSSi Foundation](https://fossi-foundation.org))*
 
 ### Signatories ({{ site.data.signatories.size }})
 
