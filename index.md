@@ -24,7 +24,7 @@ However, even the Open PDKs still require professional support, as the process o
 
 We therefore *strongly* recommend **two short-term actions** aiming at democratizing silicon access, growing the community of European students and practitioners with tape-out experience from hundreds to thousands:
 
-- **Fund entities** that create and maintain open source PDKs on mature nodes, ideally cooperating with large scale commercial foundries (for example with proxy PDKs) and provided brokerage service for open-source silicon fabrication access. 
+- **Fund entities** that create and maintain open source PDKs on mature nodes, ideally cooperating with large scale commercial foundries (for example with proxy PDKs) and provide brokerage service for open-source silicon fabrication access. 
 - **Make free open source chip fabrication possible for every student in Europe** through public funding for several runs of chip production. Access to these publicly funded runs could be organized through competitions, hackathons and similar activities aimed at increasing the size of the IC design community, enabling not only large universities, but also smaller educational institutions, and even individuals to access silicon manufacturing.
 
 With those two actions we expect a significant impact on further talent development and the European chip design community.
