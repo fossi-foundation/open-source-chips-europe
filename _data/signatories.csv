@@ -1,334 +1,395 @@
-name,country,affiliation
-Stefan Wallentowitz,Germany,"Professor, Hochschule University of Applied Sciences & Director, FOSSi Foundation"
-Frank K. Gürkaynak,Switzerland,"Senior Scientist, ETH Zürich"
-Luca Benini,"Switzerland, Italy","Professor, ETH Zürich & University Bologna"
-Matt Venn,Spain,"Founder, Tiny Tapeout & YosysHQ"
-René Scholz,Germany,"Group Leader Research and Prototyping Service, IHP"
-Tomi Rantakari,Spain,"CEO, ChipFlow"
-Christian Pilato,Italy,"Associate Professor, Politecnico di Milano"
-Luis Miguel Pinho,Portugal,"Senior Researcher, INESC TEC & Professor, ISEP, Portugal"
-Norbert Wehn,Germany,"Professor, University of Kaiserslautern-Landau"
-Cristina Silvano,Italy,"Professor, Politecnico di Milano"
-Matthias Jung,Germany,"Professor, Julius-Maximilians-Universität Würzburg"
-Enrico Macii,Italy,"Professor, Politecnico di Torino"
-Zine-Eddine Haboussi,Austria,"Master Student, JKU Linz"
-Bharath,Germany,"Graduate Student, TUM"
-Thomas Kämpfe,Germany,"Professor, TU Braunschweig & Department Manager, Fraunhofer IPMS"
-Lukas Krupp,Germany,"Project Manager University Alliance, Chipdesign Germany & Postdoctoral Researcher, RPTU Kaiserslautern-Landau"
-Gaurav Kaul,United Kingdom,"AI Systems Architect, Oracle"
-Valentino Peluso,Italy,"Assistant Professor, Politecnico di Torino"
-Tomeu Vizoso,Czech Republic,Independent NPU driver developer
-Tobias Scheipel,Austria,"PostDoc, Embedded Architectures & Systems Group, Graz University of Technology"
-Tommaso Spagnolo,Italy,"PhD, Politecnico di Milano"
-Satinder Paul Singh,Germany,Chief Technology Officer
-Afonso Oliveira,Portugal,Researcher
-Christian Fabre,France,"Researcher & Engineer, CEA"
-Ciprian Antoci,Sweden,Verification Engineer
-Fabrizio Ferrandi,Italy,"Associate Professor, Politecnico di Milano"
-Michael Zappe,United States,"CTO, Pi-Radio"
-Christos Kotselidis,United Kingdom,"Professor, The University of Manchester"
-Bodo Hoppe,Germany,"Distinguished Engineer, Hardware Verification"
-Fabrizio Magugliani,Italy,HPC Practitioner in Active Retirement
-Yuning,Switzerland,Founder of Various RISC-V Product Startups
-João Bispo,Portugal,"Senior Researcher, INESCTEC & Professor, Unversity of Porto"
-Maksim Jenihhin,Estonia,"Assoc. Professor, Tallinn University of Technology"
-Martin Schoeberl,Denmark,"Professor, Technical University of Denmark"
-Andrea Spitale,Czech Republic,"Digital Design Engineer, Codasip"
-Dave Keeshan,Ireland,"Principle Engineer, Daxzio"
-Jan Zapeca,Czechia,"ASIC design engineer, Tropic Square"
-Andrés Martínez Mera,Spain,Engineer
-Rosnel Alejandro Leyva-Cortes,United States,"Engineering Student, Columbia University"
-Konstantinos Iordanou,United Kingdom,"Senior ASIC Design Engineer,Pragmatic Semiconductor"
-Giorgos Dimitrakopoulos,Greece,"Professor, ECE Democritus University of Thrace"
-Harald Pretl,Austria,"Professor, Johannes Kepler University, Linz"
-Olof Kindgren,Sweden,"Digital Design Engineer, Qamcom"
-Theo Theocharides,Cyprus,"Professor, University of Cyprus"
-Yvan Tortorella,Italy,"Digital IC Designer, Fondazione Chips-IT"
-Alberto Macii,Italy,"Professor, Politecnico di Torino, Torino, Italy"
-Sylvain Munaut,Belgium,FPGA and ASIC design engineer
-Vijay Janapa Reddi,USA,"Professor, Harvard University"
-Andrés Otero,Spain,"Associate Professor, Universidad Politécnica de Madrid"
-Kasim Sinan Yildirim,Italy,"Associate Professor, University of Trento"
-Filippo Minnella,Italy,"AI HW/SW architect, NXP"
-Emanuel Popovici,Ireland,"Senior Lecturer, Electrical and Electronic Engineering, University College Cork"
-Leonardo Viana,United States,Power engineer at ideal Power inc
-Sean Patrick O’Brien,United States,Independent EDA Engineer
-Theo Theocharides,Cyprus,"Professor, University of Cyprus"
-Tommaso Polonelli,Switzerland,"Researcher, ETH Zürich"
-Yuxuan Zhang,Sweden,PhD candidate at Mid Sweden University
-Bowen Wang,China,"Phd Student, imec"
-Luca Cassano,Italy,"Associate Professor, Politecnico di Milano & Co-Founder, IONION"
-D. Mitch Bailey,Japan,"Open Source EDA developer, ShuhariSystem"
-Simon Dorrer,Austria,"""Research Assistant, Johannes Kepler University"""
-Gianvito Urgese,Italy,"Associate Professor, Politecnico di Torino"
-Steven Bos,Norway,"Associate Professor, University of South-Eastern Norway"
-Nick Kossifidis,Greece,"Principal Research Engineer, ICS/FORTH"
-Joachim Rodrigues,Sweden,"Professor, Lund University"
-Ilia Polian,Germany,"Director,, Institute for Computer Architecture and Computer Engineering"
-João Miguel Soares Bedin,Brazil,Research Engineer
-Oscar Gustafsson,Sweden,"Associate Professor, Linköping University"
-Johannes Mutter,Germany,"PhD Student, TU München"
-Naina Singhal`,New Zealaand,Technologist at University of Auckland
-Daniele Jahier Pagliari,Italy,"Associate Professor, Politecnico di Torino"
-Jorge Lagos,Belgium,"Principal MTS, imec"
-Joselito Isaac P. Morallo,Philippines,Microelectronics Track Advocate and Application
-Thorsten Knoll,Germany,"Researcher, RheinMain University of Applied Sciences"
-Nicklaus Thompson,United States,"Graduate Student, University of Washington"
-Marc Stöttinger,Germany,"Professor, Hochschule RheinMain"
-Fernando Domínguez Pousa,Spain,"FPGA Engineer, GMV"
-Thomas Grob,Germany,"Senior Hardware Architect, Hitachi Rail"
-Julian Haase,Germany,"Research Associate, TU Dresden"
-Uri Shaked,Israel,"Co-founder, Tiny Tapeout"
-Aurelio Teliti,Italy,"Industrial PhD Student, Politechnico di Milano"
-Edoardo Patti,Italy,"Associate Professor, Politecnico di Torino"
-Vipul Sharma,India,"IC Design Engineer, Orbit Solutions"
-Goran Mahovlić,Croatia,"Co-Founder, Intergalaktik"
-Santa Di Cataldo,Italia,"Associate Professor, Politecnico di Torino"
-Daniel Keller,Switzerland,ETH Zürich
-Jan Pleskac,Czech Republic,CEO & co-founder Tropic Square
-Alessio Burrello,Italy,"Associate Professor, Politecnico di Torino"
-Vasil Yorsanov,Bulgaria,"Student, Purdue University"
-Francesco Conti,Italy,"Tenure-Track Assistant Professor, University of Bologna"
-Daniel Große,Austria,"Professor, Johannes Kepler University Linz"
-Frans Skarman,Sweden,"PhD student, Linköping University"
-Sara Vinco,Italy,"Associate Professor, Politecnico di Torino"
-Alessandro Aliberti,Italy,"Assistant Professor, Politecnico di Torino"
-Rohit Prasad,France,"Research Engineer, CEA"
-Marc Reichenbach,Germany,"Professor, University of Rostock"
-Staf Verhaegen,Belgium,Founder FibraServi BV & Co-founder ChipFlow Ltd.
-Anton Maurovic,Australia,"Technical Program Manager, Efabless"
-Marco Pagani,Italy,"Researcher, Fondazione Chips-IT"
-Erika Pellegrino,Italy,HPC Specialist Leonardo SpA
-Mikael Henriksson,Sweden,"Ph.D. Student, Linköping University"
-Nithin P,India,Undergraduate Researcher
-Wladek Grabinski,Switzerland,"R&D Manager, MOS-AK Association (EU)"
-Rafael Neves de Mello Oliveira,Brazil,Physical Design Engineer & Founder Osiris Group
-Nuno Miguel Cardanha Paulino,Portugal,"Research Engineer, INESC TEC"
-Pramoda S R,India,"Student, VTU"
-Ates Berna,Türkiye,General Manager
-Ates Berna,Netherlands,Managing Partner
-Jean-Paul Chaput,France,"Research Engineer, Sorbonne Université"
-Anshul Sharma,India,"Anshul Sharma, Verification Engineer"
-Krzysztof Herman,Germany,The Leibniz Institute for High Performance Microelectronics
-Peter Korsgaard,Belgium,Open source maintainer
-Kolos Koblasz,Hungary,Electrical Engineer
-Rodrigo Nogueira Wuerdig,Belgium,PhD Researcher
-Lorenzo Bottaccioli,Italy,"Associate Professor, Politecnico di Torino"
-Saikat Chatterjee,Germany,"Architect, Engineering Team Lead in Socionext"
-Diarmuid Collins,Ireland,SLICE Semiconductor
-Müştak Erhan Yalcin,Türkiye,"Professor, İstanbul Technical University, Türkiye"
-Noam Cohen,France,"Co-Founder, keplertech.io"
-Simon Richter,Denmark,"PhD Student, Aarhus University"
-Milos Krstic,Germany,"Professor and Department Head ""System Architecture"" at IHP"
-Emmanuel Huck,France,"SoC RTL designer, NanoXplore"
-Daniele Parravicini,Italy,"Digital Designer, Politechnico di Milano"
-Aanjhan Ranganathan,United States,"Professor, Northeastern University"
-Riccardo Tedeschi,Italy,"PhD student, University of Bologna"
-Diego Satizabal,Uruguay,"Software Architect, Southworks"
-Gianluca Furano,The Netherlands,Data Systems Engineer
-Andreas Koch,Germany,"Professor, Head of Embedded Systems and Applications Group"
-Jonathan Schröter,Germany,"Doctoral Candidate, Hochschule München University of Applied Sciences"
-Tobias Wölfel,Germany,"Doctoral Candidate, Hochschule München University of Applied Sciences"
-Andreas Hager-Clukas,Germany,"Doctoral Candidate, Hochschule München University of Applied Sciences"
-Sajid Mohamed,Germany,"Lead Systems Architect, DigitalTwin Technology GmbH"
-Mauro Olivieri,Italy,"Professor, Sapienza University of Rome"
-Caaliph Andriamisaina,France,"Research Engineer, CEA"
-Lev Denisov,Italy,"PhD Student, Politecnico di Milano"
-Ayandev Barman,Canada,"PhD student, University of Toronto"
-Francesco Antognazza,Italy,PhD student
-Angelo Garofalo,Italy,"Assistant Professor, University of Bologna"
-Alex Giulietti,Spain,Verification Engineer
-Victor Jung,Switzerland,"PhD Student, ETH Zürich"
-AL SABAGH Ghaith,Austria,Master student Analog/RF-IC Design at IIC-JKU
-Mr Steven O'Shea,United Kingdom,"Research Technician, University of Glasgow"
-Davide Rossi,Italy,"Profesor, University of Bologna"
-David Brough-Smyth,Australia,FPGA and ASIC design engineer
-Pablo Alejandro Ferreyra,Argentina,"Professor National University of Córdoba, Argentina"
-Leo Moser,Austria,"Master Student, Graz University of Technology"
-Mallikarjun Yeshlur,India,Student Researcher
-Christophe Alexandre,France,"CEO, keplertech.io"
-Marie-Minerve Louerat,France,"Co-Founder, Coriolis Foundation hosted by the CNRS Foundation"
-Idriss Drissi Smaili,Canada,Student at McMaster University
-Dirk Koch,Germany,"Professor, Heidelberg University"
-Rosnnel David Moncada,Colombia,RTL Engineer
-Yen-Chun Lin,Spain,"Technical project manager, ChipFlow"
-Massimo Poncino,Italy,Professor
-Ulf Schlichtmann,Germany,"Professor, Technical University of Munich"
-Mo R Fadiheh,USA,"Postdoctoral Scholar, Stanford University"
-Samuel Ellicott,United States,"PhD Student, The Ohio State University"
-Vivek Adi,Singapore,"PhD Researcher, NUS"
-R. Timothy Edwards,United States of America,"CEO, Open Circuit Design"
-Altug Somay,Türkiye,"Senior Digital Design Engineer, Analog Devices"
-Roel Jordans,The Netherlands,Eindhoven University of Technology
-Dali Kilani,France,"CTO, FlexAI"
-Alexander Manley,United States,"Graduate Computer Architect, The University of Kansas"
-César Fuguet,France,"Researcher, Inria, TIMA Laboratory"
-Christoph Leitner,Switzerland,"Postdoc, ETH Zurich"
-Duc Han LE,France,Research Engineer
-Alessandro Ottaviano,Switzerland,"PhD student, ETH Zurich"
-Koldo Basterretxea,Spain,"Associate Profesor, University of the Basque Country (UPV/EHU)"
-Mickael Fiorentino,France,"ASIC/FPGA design engineer, Thales Alenia Space"
-Michele Benetti,United Kingdom,"Research Engineer, Dyson"
-N. Engelhardt,Austria,"CEO, YosysHQ"
-Jun-ichi OKAMURA,Japan,"Producer, Planning for semiconductor policy in Japan."
-Miquel Moreto,Spain,UPC and BSC
-Mattia Sinigaglia,Italy,"PhD Student, University of Bologna"
-Guillem López-Paradís,Spain,"PhD Student, Barcelona Supercomputing Center"
-Patrick Pelgrims,Belgium,Researcher MICAS ESAT KU Leuven & Embedded Systems Thomas More
-Mario Auer,Austria,"Associate Professor, Graz University of Technology"
-Magnus Östgren,Sweden,"PhD Student, Chalmers University of Technology"
-Işıl Öz,Turkey,"Assistant Professor, Izmir Institute of Technology"
-Paul Scheffler,Switzerland,"PhD Student, ETH Zurich"
-Thomas Benz,Switzerland,"PhD Student, IIS, ETH Zurich"
-Philippe Sauter,Switzerland,"PhD student, ETH Zurich"
-Sebastian Frey,Switzerland,"PhD Student, ETH Zurich"
-Nils Wistoff,Switzerland,"PhD student, ETH Zurich"
-Tim Fischer,Switzerland,"PhD Student, ETH Zurich"
-Sergio Mazzola,Switzerland,"PhD student, ETH Zürich"
-Federico Villani,Switzerland,"PHD Student, ETH Zürich"
-Maicol Ciani,Italy,"PhD Candidate, University of Bologna"
-Melika Payvand,Switzerland,University of Zurich
-Sergio Saponara,Italy,University of Pisa
-Domenico Balsamo,United Kingdom,"Associate Professor, Newcastle University"
-Christoph Studer,Switzerland,"Professor, ETH Zurich"
-Viviane Potocnik,Switzerland,"Doctoral Student, ETH Zurich"
-Sina Arjmandpour,Switzerland,"PhD student, ETH Zurich"
-Matteo Perotti,Switzerland,"Scientific Assistant, ETH Zurich"
-Andreas Burg,Switzerland,"Associate Professor, EPFL"
-Paolo Meloni,Italy,Università degli Studi di Cagliari
-Robert Balas,Switzerland,"PhD Student, ETH Zürich"
-Magnus Själander,Norway,Norwegian University of Science and Technology
-Gamze Islamoglu,Switzerland,"PhD Student, ETH Zürich"
-Bowen Wang,Switzerland,"PhD Student, ETH Zurich"
-Davide Brunelli,Italy,"Associate Professor, University of Trento"
-Riccardo Rovatti,Italy,"Professor, University of Bologna"
-Diyou Shen,Switzerland,"PhD Student, ETH Zürich"
-Jeppe Hinrichs,Denmark,Firmware Engineer
-Anatolii Orlov,Ukraine,"Professor, Igor Sikorsky Kyiv Polytechnic Institute"
-Andrea Helga Bernardi,Italy,"PhD Student, University of Bologna"
-Matteo Sonza Reorda,Italy,"Professor, Politecnico di Torino"
-Andrea Cossettini,Switzerland,Research Cooperation Manager
-Mathieu Luisier,Switzerland,"Professor, ETH Zurich"
-Pedro P. Carballo,Spain,"Asst. professor, IUMA, Univ. Las Palmas Gran Canaria"
-Jaskirat Singh,Switzerland,"Robotics Engineer, RIVR Technologies AG"
-Luca Barbierato,Italy,"Assistant Professor, Politecnico di Torino"
-Javier del Pino,Spain,"Professor, University of Las Palmas de Gran Canaria"
-Cristian Cioflan,Switzerland,"PhD Student, ETH Zürich"
-SERGIU BOGDAN POPESCU,Romania,Software Engineer
-Levi Van der Elst,Belgium,KU Leuven
-Tobi Delbruck,Switzerland,"Professor, UZH-ETH Zurich"
-Thomas Parry,Netherlands,"CEO,SPHERICAL"
-Mehrzad Nejat,Sweden,"Postdoctoral Researcher, Chalmers University of Technology"
-Philip Wiese,Switzerland,"PhD Student, ETH Zürich"
-Luca Valente,Italy,Digital design engineer
-Martin Harnevie,Sweden,"Engineer, SAMS"
-Daniel Bovensiepen,China,"Principal Research Scientist, Siemens"
-Juan L. Aragón,Spain,"Professor, University of Murcia"
-Emre Neftci,Germany,"Institute Director Forschugnszentrum Juelich, Professor RWTH Aachen"
-Joseph Paturel,France,"Digital Design Engineer, Inria"
-Tallie Caris,Netherlands,Label Signed DJ/Producer
-Christopher Reinwardt,Switzerland,"PhD Student, IIS ETH Zürich"
-Luca Bompani,Italy,"PhD student, University of Bologna"
-Konstantin Eyhorn,Germany,Student
-Hong Pang,Switzerland,"Scientific Assistant, ETH Zürich"
-Macarena C. Martínez-Rodríguez,Spain,"Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US"
-Jakob Luettgau,France,"Research Scientist, Inria"
-Andrew Wilson,Austria,"Junior Scientist, Silicon Austria Labs GmbH"
-Jari Ronkainen,Finland,ICT consultant
-Carles Hernández,Spain,UPV
-Dupuis Étienne,France,"Edge AI engineer, Prophesee"
-Piedad Brox Jiménez,Spain,Instituto de Microelectrónica de Sevilla (CSIC/Univ. Sevilla)
-Gabriel,Spain,"signal processing engineer, Analog Devices Inc"
-Charlotte Frenkel,Netherlands,"Assistant Professor, Delft University of Technology"
-Eros Camacho-Ruiz,Spain,"Post-Doc Researcher, Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US"
-Gabriele Lodi,Italy,"Senior Digital IC Designer, Eggtronic"
-Paul Hansel,United States of America,"Research Engineer, Karpouzi Consulting"
-Pablo Navarro Torrero,Spain,"PhD candidate, Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US"
-AlessandroVanelli-Coralli,Italy,"Professor, University of Bologna"
-Burkhard Steinmacher-Burow,Germany,CEO & co-founder ExpectedIT GmbH
-Sergio Seminara,Italy,"Senior Verification Engineer, ExpectedIT"
-Alberto Gomez Saiz,United Kingdom,"IC Design Tecnical Lead, Quantum Motion"
-Carlos Saccogna,Spain,ASIC Digital Designer
-Torsten Grawunder,Germany,Senior System Designer / Architect
-Giuseppe Tagliavini,Italy,Alma Mater Studiorum - Università di Bologna
-Amro Tork,Egypt,"Founder, Mabrains"
-Ilir Shala,Austria,Master Student Analog/Digital IC Design at IIC-JKU
-Daniel Amor Martín,Spain,Innovation manager and cofounder of RBZ Embedded Logics
-Sanoi Kupiainen,Finland,"Student, University of Jyväskylä"
-Patrik Millsjö,Sweden,CEO InfiniNode Technologies
-Bill Nace,United States,"Teaching Professor, Carnegie Mellon University"
-Prof. Arfan Ghani,United Arab Emirates,"Director, Ghani Labs (https://sites.google.com/view/arfanghani/)"
-Vassilis Papaefstathiou,Greece,"Professor, University of Crete & FORTH-ICS"
-Derek Christ,Germany,"PhD Student, Julius-Maximilians-Universität Würzburg"
-Gavin Ferris,United Kingdom,"CEO, lowRISC CIC"
-Christian Münker,Germany,"Professor, University of Applied Sciences Munich"
-Massimo Barbaro,Italy,"Professor, Università di Cagliari"
-Marco Tartagni,Italy,"University of Bologna, Professor"
-Ayrton Chilibeck,Canada,"Graduate student, University of Alberta"
-Marco Aldinucci,Italy,"Professor, University of Torino"
-Ledoux Louis,France,"Postdoctoral Researcher, inria/insa"
-José T. de Sousa,Portugal,"Professor/Entrepreneur, University of Lisbon/IObundle Lda."
-Andrés Santana Andreo,Spain,"PhD candidate, Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US"
-Steffen Reith,Germany,Professor
-Ignacio Herrera-Alzu,Spain,"PhD, Lecturer at ICAI School of Engineering"
-Marcel Jung,Germany,"Master Student, Heidelberg University"
-Matthias Tarasiewicz,Austria,"Director, RIAT Institute"
-Mattia Mirigaldi,Italy,PhD
-Hugo Frisk,Sweden,"Electronics Engineer, Teenage Engineering"
-Stuart Kerr,Singapore,Mixed Signal ASIC Designer
-Markus Winter,Austria,"Software Architect Embedded Systems, Fronius International"
-Mauricio Montanares,Ireland,MCCI/Tyndal National Institute
-Mohsen Seyedkazemi Ardebili,Italy,"Postdoctoral Researcher, University of Bologna"
-Lana Josipović,Switzerland,"Assistant Professor, ETH Zurich"
-Sebastian Castro Yang,Chile,"Applications Engineer, Synopsys"
-Felicitas Pojtinger,Germany,"Software Developer and Open Source Maintainer, Loophole Labs"
-Joakim Nilsson,Sweden,Luleå University of Technology
-Ambily Suresh,Austria,"Senior Scientist, Silicon Austria Labs GmbH"
-Alfonso Cortés,France,"Research Engineer, Inria"
-Laura Bégon-Lours,Switzerland,"Assistant Professor, ETH Zürich"
-CHOTIN Roselyne,France,"Professor, Sorbonne University"
-Shavika Rastogi,Australia,PhD Student
-Manuel Prieto-Matias,Spain,"Professor, Complutense University"
-Jonathan Bizzi,Italy,"CEO & CTO, Daidalos"
-Nicolas Andersson,Switzerland,"Student microengineering, HEIG-VD"
-Gustav Wahl,Norway,Software Developer
-Pablo Balbi,Argentina - Spain,"Researcher, UBA"
-Marek Wojcikowski,Poland,"Assiciate Professor, Gdansk University of Technology"
-Martin Omana,Italy,University of Bologna
-Rafael Castro López,Spain,"Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US - Spai"
-Amedeo Iantorno,Switzerland,IC Design Engineer
-Enrico Zschemisch,USA,"Principal Test Engineer, Marvell Semiconductor Inc"
-Marvin Barth,Germany,"Bachelor Student, Karlsruhe Institute of Technology"
-Veronica Cortes,United States,Electrical Engineer
-Lars Svensson,Sweden,"Associate Professor, Chalmers University"
-David Kunštek,Slovenia,SelfLearner
-Mazen Saghir,Lebanon,American University of Beirut
-Alberto Gancedo,Spain,"Analog IC Design Engineer, ChipFlow"
-Carlos Medrano Navalón,Spain,"PhD Student, Universidad de Castilla-La Mancha"
-Eyck Jentzsch,Germany,MINRES Technologies GmbH
-Wolfgang Nebel,Germany,Prof. Chairman edacentrum
-Abdul Wahab,Pakistan,Information Security Researcher at MoD
-Teresa Cervero,Spain,"Leading Research Engineer, BSC"
-Joaquín Borràs Sarsa,Spain,"Research Engineer & RTL designer, BSC"
-Xabier Abancens Calvo,Spain,"Leading researcher, BSC"
-Emanuele Parisi,Spain,"Recognized Researcher, Barcelona Supercomputing Center"
-Carlos Puchol,Spain,"Senior Leader, Barcelona Supercomputing Center"
-Pavel Kuroedov,Spain,"Research Engineer, BSC"
-Juan Carlos Rodriguez,Spain,"Research Engineer, BSC"
-Rohan Verma,India,Compiler Engineer
-Bruno,Uruguay,Engineer Student
-Matej Petak,Austria,"Software engineer, Primetals technologies Austria"
-Luis Carlos Alvarez Simón,Mexico,Postdoctoral Researcher
-Alfiero Leoni,Italy,"Researcher, University of L'Aquila"
-Ruben Salvador,France,Associate Professor
-Jaume Abella,Spain,"Lab director, BSC"
-Sergi Alcaide,Spain,"PostDoc, Barcelona Supercomputing Center"
-Alex Torrubia Ollero,Spain,"Research Engineer, Barcelona Supercomputing Center"
-Ondrej Kolar,Czech Republic,"PhD Student, Brno University of Technology"
-Ellen Wood,United Kingdom,Chip Layout Engineer
-Francesco Sgherzi,Spain,"Research Engineer, Barcelona Supercomputing Center"
-Renan Beran Kilic,Italy,"PhD candidate, University of Trento"
-Nicolas Marchand,Belgium,"Lecturer, ECAM"
-Daniel Teal,United States,"PhD, University of California, Berkeley"
-Günter Grau,Germany,"CEO, advICo microelectronics GmbH"
-Sandeep,Germany,Entreoreneur and startup engineer
+name;country;affiliation
+Stefan Wallentowitz;Germany;Professor, Hochschule University of Applied Sciences & Director, FOSSi Foundation
+Frank K. Gürkaynak;Switzerland;Senior Scientist, ETH Zürich
+Luca Benini;Switzerland, Italy;Professor, ETH Zürich & University Bologna
+Matt Venn;Spain;Founder, Tiny Tapeout & YosysHQ
+René Scholz;Germany;Group Leader Research and Prototyping Service, IHP
+Tomi Rantakari;Spain;CEO, ChipFlow
+Christian Pilato;Italy;Associate Professor, Politecnico di Milano
+Luis Miguel Pinho;Portugal;Senior Researcher, INESC TEC & Professor, ISEP, Portugal
+Norbert Wehn;Germany;Professor, University of Kaiserslautern-Landau
+Cristina Silvano;Italy;Professor, Politecnico di Milano
+Matthias Jung;Germany;Professor, Julius-Maximilians-Universität Würzburg
+Enrico Macii;Italy;Professor, Politecnico di Torino
+Zine-Eddine Haboussi;Austria;Master Student, JKU Linz
+Bharath;Germany;Graduate Student, TUM
+Thomas Kämpfe;Germany;Professor, TU Braunschweig & Department Manager, Fraunhofer IPMS
+Lukas Krupp;Germany;Project Manager University Alliance, Chipdesign Germany & Postdoctoral Researcher, RPTU Kaiserslautern-Landau
+Gaurav Kaul;United Kingdom;AI Systems Architect, Oracle
+Valentino Peluso;Italy;Assistant Professor, Politecnico di Torino
+Tomeu Vizoso;Czech Republic;Independent NPU driver developer
+Tobias Scheipel;Austria;PostDoc, Embedded Architectures & Systems Group, Graz University of Technology
+Tommaso Spagnolo;Italy;PhD, Politecnico di Milano
+Satinder Paul Singh;Germany;Chief Technology Officer
+Afonso Oliveira;Portugal;Researcher
+Christian Fabre;France;Researcher & Engineer, CEA
+Ciprian Antoci;Sweden;Verification Engineer
+Fabrizio Ferrandi;Italy;Associate Professor, Politecnico di Milano
+Michael Zappe;United States;CTO, Pi-Radio
+Christos Kotselidis;United Kingdom;Professor, The University of Manchester
+Bodo Hoppe;Germany;Distinguished Engineer, Hardware Verification
+Fabrizio Magugliani;Italy;HPC Practitioner in Active Retirement
+Yuning;Switzerland;Founder of Various RISC-V Product Startups
+João Bispo;Portugal;Senior Researcher, INESCTEC & Professor, Unversity of Porto
+Maksim Jenihhin;Estonia;Assoc. Professor, Tallinn University of Technology
+Martin Schoeberl;Denmark;Professor, Technical University of Denmark
+Andrea Spitale;Czech Republic;Digital Design Engineer, Codasip
+Dave Keeshan;Ireland;Principle Engineer, Daxzio
+Jan Zapeca;Czechia;ASIC design engineer, Tropic Square
+Andrés Martínez Mera;Spain;Engineer
+Rosnel Alejandro Leyva-Cortes;United States;Engineering Student, Columbia University
+Konstantinos Iordanou;United Kingdom;Senior ASIC Design Engineer,Pragmatic Semiconductor
+Giorgos Dimitrakopoulos;Greece;Professor, ECE Democritus University of Thrace
+Harald Pretl;Austria;Professor, Johannes Kepler University, Linz
+Olof Kindgren;Sweden;Digital Design Engineer, Qamcom
+Theo Theocharides;Cyprus;Professor, University of Cyprus
+Yvan Tortorella;Italy;Digital IC Designer, Fondazione Chips-IT
+Alberto Macii;Italy;Professor, Politecnico di Torino, Torino, Italy
+Sylvain Munaut;Belgium;FPGA and ASIC design engineer
+Vijay Janapa Reddi;USA;Professor, Harvard University
+Andrés Otero;Spain;Associate Professor, Universidad Politécnica de Madrid
+Kasim Sinan Yildirim;Italy;Associate Professor, University of Trento
+Filippo Minnella;Italy;AI HW/SW architect, NXP
+Emanuel Popovici;Ireland;Senior Lecturer, Electrical and Electronic Engineering, University College Cork
+Leonardo Viana;United States;Power engineer at ideal Power inc
+Sean Patrick O’Brien;United States;Independent EDA Engineer
+Theo Theocharides;Cyprus;Professor, University of Cyprus
+Tommaso Polonelli;Switzerland;Researcher, ETH Zürich
+Yuxuan Zhang;Sweden;PhD candidate at Mid Sweden University
+Bowen Wang;China;Phd Student, imec
+Luca Cassano;Italy;Associate Professor, Politecnico di Milano & Co-Founder, IONION
+D. Mitch Bailey;Japan;Open Source EDA developer, ShuhariSystem
+Simon Dorrer;Austria;"""Research Assistant, Johannes Kepler University"""
+Gianvito Urgese;Italy;Associate Professor, Politecnico di Torino
+Steven Bos;Norway;Associate Professor, University of South-Eastern Norway
+Nick Kossifidis;Greece;Principal Research Engineer, ICS/FORTH
+Joachim Rodrigues;Sweden;Professor, Lund University
+Ilia Polian;Germany;Director,, Institute for Computer Architecture and Computer Engineering
+João Miguel Soares Bedin;Brazil;Research Engineer
+Oscar Gustafsson;Sweden;Associate Professor, Linköping University
+Johannes Mutter;Germany;PhD Student, TU München
+Naina Singhal`;New Zealaand;Technologist at University of Auckland
+Daniele Jahier Pagliari;Italy;Associate Professor, Politecnico di Torino
+Jorge Lagos;Belgium;Principal MTS, imec
+Joselito Isaac P. Morallo;Philippines;Microelectronics Track Advocate and Application
+Thorsten Knoll;Germany;Researcher, RheinMain University of Applied Sciences
+Nicklaus Thompson;United States;Graduate Student, University of Washington
+Marc Stöttinger;Germany;Professor, Hochschule RheinMain
+Fernando Domínguez Pousa;Spain;FPGA Engineer, GMV
+Thomas Grob;Germany;Senior Hardware Architect, Hitachi Rail
+Julian Haase;Germany;Research Associate, TU Dresden
+Uri Shaked;Israel;Co-founder, Tiny Tapeout
+Aurelio Teliti;Italy;Industrial PhD Student, Politechnico di Milano
+Edoardo Patti;Italy;Associate Professor, Politecnico di Torino
+Vipul Sharma;India;IC Design Engineer, Orbit Solutions
+Goran Mahovlić;Croatia;Co-Founder, Intergalaktik
+Santa Di Cataldo;Italia;Associate Professor, Politecnico di Torino
+Daniel Keller;Switzerland;ETH Zürich
+Jan Pleskac;Czech Republic;CEO & co-founder Tropic Square
+Alessio Burrello;Italy;Associate Professor, Politecnico di Torino
+Vasil Yorsanov;Bulgaria;Student, Purdue University
+Francesco Conti;Italy;Tenure-Track Assistant Professor, University of Bologna
+Daniel Große;Austria;Professor, Johannes Kepler University Linz
+Frans Skarman;Sweden;PhD student, Linköping University
+Sara Vinco;Italy;Associate Professor, Politecnico di Torino
+Alessandro Aliberti;Italy;Assistant Professor, Politecnico di Torino
+Rohit Prasad;France;Research Engineer, CEA
+Marc Reichenbach;Germany;Professor, University of Rostock
+Staf Verhaegen;Belgium;Founder FibraServi BV & Co-founder ChipFlow Ltd.
+Anton Maurovic;Australia;Technical Program Manager, Efabless
+Marco Pagani;Italy;Researcher, Fondazione Chips-IT
+Erika Pellegrino;Italy;HPC Specialist Leonardo SpA
+Mikael Henriksson;Sweden;Ph.D. Student, Linköping University
+Nithin P;India;Undergraduate Researcher
+Wladek Grabinski;Switzerland;R&D Manager, MOS-AK Association (EU)
+Rafael Neves de Mello Oliveira;Brazil;Physical Design Engineer & Founder Osiris Group
+Nuno Miguel Cardanha Paulino;Portugal;Research Engineer, INESC TEC
+Pramoda S R;India;Student, VTU
+Ates Berna;Türkiye;General Manager
+Ates Berna;Netherlands;Managing Partner
+Jean-Paul Chaput;France;Research Engineer, Sorbonne Université
+Anshul Sharma;India;Anshul Sharma, Verification Engineer
+Krzysztof Herman;Germany;The Leibniz Institute for High Performance Microelectronics
+Peter Korsgaard;Belgium;Open source maintainer
+Kolos Koblasz;Hungary;Electrical Engineer
+Rodrigo Nogueira Wuerdig;Belgium;PhD Researcher
+Lorenzo Bottaccioli;Italy;Associate Professor, Politecnico di Torino
+Saikat Chatterjee;Germany;Architect, Engineering Team Lead in Socionext
+Diarmuid Collins;Ireland;SLICE Semiconductor
+Müştak Erhan Yalcin;Türkiye;Professor, İstanbul Technical University, Türkiye
+Noam Cohen;France;Co-Founder, keplertech.io
+Simon Richter;Denmark;PhD Student, Aarhus University
+Milos Krstic;Germany;"Professor and Department Head ""System Architecture"" at IHP"
+Emmanuel Huck;France;SoC RTL designer, NanoXplore
+Daniele Parravicini;Italy;Digital Designer, Politechnico di Milano
+Aanjhan Ranganathan;United States;Professor, Northeastern University
+Riccardo Tedeschi;Italy;PhD student, University of Bologna
+Diego Satizabal;Uruguay;Software Architect, Southworks
+Gianluca Furano;The Netherlands;Data Systems Engineer
+Andreas Koch;Germany;Professor, Head of Embedded Systems and Applications Group
+Jonathan Schröter;Germany;Doctoral Candidate, Hochschule München University of Applied Sciences
+Tobias Wölfel;Germany;Doctoral Candidate, Hochschule München University of Applied Sciences
+Andreas Hager-Clukas;Germany;Doctoral Candidate, Hochschule München University of Applied Sciences
+Sajid Mohamed;Germany;Lead Systems Architect, DigitalTwin Technology GmbH
+Mauro Olivieri;Italy;Professor, Sapienza University of Rome
+Caaliph Andriamisaina;France;Research Engineer, CEA
+Lev Denisov;Italy;PhD Student, Politecnico di Milano
+Ayandev Barman;Canada;PhD student, University of Toronto
+Francesco Antognazza;Italy;PhD student
+Angelo Garofalo;Italy;Assistant Professor, University of Bologna
+Alex Giulietti;Spain;Verification Engineer
+Victor Jung;Switzerland;PhD Student, ETH Zürich
+AL SABAGH Ghaith;Austria;Master student Analog/RF-IC Design at IIC-JKU
+Mr Steven O'Shea;United Kingdom;Research Technician, University of Glasgow
+Davide Rossi;Italy;Profesor, University of Bologna
+David Brough-Smyth;Australia;FPGA and ASIC design engineer
+Pablo Alejandro Ferreyra;Argentina;Professor National University of Córdoba, Argentina
+Leo Moser;Austria;Master Student, Graz University of Technology
+Mallikarjun Yeshlur;India;Student Researcher
+Christophe Alexandre;France;CEO, keplertech.io
+Marie-Minerve Louerat;France;Co-Founder, Coriolis Foundation hosted by the CNRS Foundation
+Idriss Drissi Smaili;Canada;Student at McMaster University
+Dirk Koch;Germany;Professor, Heidelberg University
+Rosnnel David Moncada;Colombia;RTL Engineer
+Yen-Chun Lin;Spain;Technical project manager, ChipFlow
+Massimo Poncino;Italy;Professor
+Ulf Schlichtmann;Germany;Professor, Technical University of Munich
+Mo R Fadiheh;USA;Postdoctoral Scholar, Stanford University
+Samuel Ellicott;United States;PhD Student, The Ohio State University
+Vivek Adi;Singapore;PhD Researcher, NUS
+R. Timothy Edwards;United States of America;CEO, Open Circuit Design
+Altug Somay;Türkiye;Senior Digital Design Engineer, Analog Devices
+Roel Jordans;The Netherlands;Eindhoven University of Technology
+Dali Kilani;France;CTO, FlexAI
+Alexander Manley;United States;Graduate Computer Architect, The University of Kansas
+César Fuguet;France;Researcher, Inria, TIMA Laboratory
+Christoph Leitner;Switzerland;Postdoc, ETH Zurich
+Duc Han LE;France;Research Engineer
+Alessandro Ottaviano;Switzerland;PhD student, ETH Zurich
+Koldo Basterretxea;Spain;Associate Profesor, University of the Basque Country (UPV/EHU)
+Mickael Fiorentino;France;ASIC/FPGA design engineer, Thales Alenia Space
+Michele Benetti;United Kingdom;Research Engineer, Dyson
+N. Engelhardt;Austria;CEO, YosysHQ
+Jun-ichi OKAMURA;Japan;Producer, Planning for semiconductor policy in Japan.
+Miquel Moreto;Spain;UPC and BSC
+Mattia Sinigaglia;Italy;PhD Student, University of Bologna
+Guillem López-Paradís;Spain;PhD Student, Barcelona Supercomputing Center
+Patrick Pelgrims;Belgium;Researcher MICAS ESAT KU Leuven & Embedded Systems Thomas More
+Mario Auer;Austria;Associate Professor, Graz University of Technology
+Magnus Östgren;Sweden;PhD Student, Chalmers University of Technology
+Işıl Öz;Turkey;Assistant Professor, Izmir Institute of Technology
+Paul Scheffler;Switzerland;PhD Student, ETH Zurich
+Thomas Benz;Switzerland;PhD Student, IIS, ETH Zurich
+Philippe Sauter;Switzerland;PhD student, ETH Zurich
+Sebastian Frey;Switzerland;PhD Student, ETH Zurich
+Nils Wistoff;Switzerland;PhD student, ETH Zurich
+Tim Fischer;Switzerland;PhD Student, ETH Zurich
+Sergio Mazzola;Switzerland;PhD student, ETH Zürich
+Federico Villani;Switzerland;PHD Student, ETH Zürich
+Maicol Ciani;Italy;PhD Candidate, University of Bologna
+Melika Payvand;Switzerland;University of Zurich
+Sergio Saponara;Italy;University of Pisa
+Domenico Balsamo;United Kingdom;Associate Professor, Newcastle University
+Christoph Studer;Switzerland;Professor, ETH Zurich
+Viviane Potocnik;Switzerland;Doctoral Student, ETH Zurich
+Sina Arjmandpour;Switzerland;PhD student, ETH Zurich
+Matteo Perotti;Switzerland;Scientific Assistant, ETH Zurich
+Andreas Burg;Switzerland;Associate Professor, EPFL
+Paolo Meloni;Italy;Università degli Studi di Cagliari
+Robert Balas;Switzerland;PhD Student, ETH Zürich
+Magnus Själander;Norway;Norwegian University of Science and Technology
+Gamze Islamoglu;Switzerland;PhD Student, ETH Zürich
+Bowen Wang;Switzerland;PhD Student, ETH Zurich
+Davide Brunelli;Italy;Associate Professor, University of Trento
+Riccardo Rovatti;Italy;Professor, University of Bologna
+Diyou Shen;Switzerland;PhD Student, ETH Zürich
+Jeppe Hinrichs;Denmark;Firmware Engineer
+Anatolii Orlov;Ukraine;Professor, Igor Sikorsky Kyiv Polytechnic Institute
+Andrea Helga Bernardi;Italy;PhD Student, University of Bologna
+Matteo Sonza Reorda;Italy;Professor, Politecnico di Torino
+Andrea Cossettini;Switzerland;Research Cooperation Manager
+Mathieu Luisier;Switzerland;Professor, ETH Zurich
+Pedro P. Carballo;Spain;Asst. professor, IUMA, Univ. Las Palmas Gran Canaria
+Jaskirat Singh;Switzerland;Robotics Engineer, RIVR Technologies AG
+Luca Barbierato;Italy;Assistant Professor, Politecnico di Torino
+Javier del Pino;Spain;Professor, University of Las Palmas de Gran Canaria
+Cristian Cioflan;Switzerland;PhD Student, ETH Zürich
+SERGIU BOGDAN POPESCU;Romania;Software Engineer
+Levi Van der Elst;Belgium;KU Leuven
+Tobi Delbruck;Switzerland;Professor, UZH-ETH Zurich
+Thomas Parry;Netherlands;CEO,SPHERICAL
+Mehrzad Nejat;Sweden;Postdoctoral Researcher, Chalmers University of Technology
+Philip Wiese;Switzerland;PhD Student, ETH Zürich
+Luca Valente;Italy;Digital design engineer
+Martin Harnevie;Sweden;Engineer, SAMS
+Daniel Bovensiepen;China;Principal Research Scientist, Siemens
+Juan L. Aragón;Spain;Professor, University of Murcia
+Emre Neftci;Germany;Institute Director Forschugnszentrum Juelich, Professor RWTH Aachen
+Joseph Paturel;France;Digital Design Engineer, Inria
+Tallie Caris;Netherlands;Label Signed DJ/Producer
+Christopher Reinwardt;Switzerland;PhD Student, IIS ETH Zürich
+Luca Bompani;Italy;PhD student, University of Bologna
+Konstantin Eyhorn;Germany;Student
+Hong Pang;Switzerland;Scientific Assistant, ETH Zürich
+Macarena C. Martínez-Rodríguez;Spain;Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US
+Jakob Luettgau;France;Research Scientist, Inria
+Andrew Wilson;Austria;Junior Scientist, Silicon Austria Labs GmbH
+Jari Ronkainen;Finland;ICT consultant
+Carles Hernández;Spain;UPV
+Dupuis Étienne;France;Edge AI engineer, Prophesee
+Piedad Brox Jiménez;Spain;Instituto de Microelectrónica de Sevilla (CSIC/Univ. Sevilla)
+Gabriel;Spain;signal processing engineer, Analog Devices Inc
+Charlotte Frenkel;Netherlands;Assistant Professor, Delft University of Technology
+Eros Camacho-Ruiz;Spain;Post-Doc Researcher, Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US
+Gabriele Lodi;Italy;Senior Digital IC Designer, Eggtronic
+Paul Hansel;United States of America;Research Engineer, Karpouzi Consulting
+Pablo Navarro Torrero;Spain;PhD candidate, Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US
+AlessandroVanelli-Coralli;Italy;Professor, University of Bologna
+Burkhard Steinmacher-Burow;Germany;CEO & co-founder ExpectedIT GmbH
+Sergio Seminara;Italy;Senior Verification Engineer, ExpectedIT
+Alberto Gomez Saiz;United Kingdom;IC Design Tecnical Lead, Quantum Motion
+Carlos Saccogna;Spain;ASIC Digital Designer
+Torsten Grawunder;Germany;Senior System Designer / Architect
+Giuseppe Tagliavini;Italy;Alma Mater Studiorum - Università di Bologna
+Amro Tork;Egypt;Founder, Mabrains
+Ilir Shala;Austria;Master Student Analog/Digital IC Design at IIC-JKU
+Daniel Amor Martín;Spain;Innovation manager and cofounder of RBZ Embedded Logics
+Sanoi Kupiainen;Finland;Student, University of Jyväskylä
+Patrik Millsjö;Sweden;CEO InfiniNode Technologies
+Bill Nace;United States;Teaching Professor, Carnegie Mellon University
+Prof. Arfan Ghani;United Arab Emirates;Director, Ghani Labs (https://sites.google.com/view/arfanghani/)
+Vassilis Papaefstathiou;Greece;Professor, University of Crete & FORTH-ICS
+Derek Christ;Germany;PhD Student, Julius-Maximilians-Universität Würzburg
+Gavin Ferris;United Kingdom;CEO, lowRISC CIC
+Christian Münker;Germany;Professor, University of Applied Sciences Munich
+Massimo Barbaro;Italy;Professor, Università di Cagliari
+Marco Tartagni;Italy;University of Bologna, Professor
+Ayrton Chilibeck;Canada;Graduate student, University of Alberta
+Marco Aldinucci;Italy;Professor, University of Torino
+Ledoux Louis;France;Postdoctoral Researcher, inria/insa
+José T. de Sousa;Portugal;Professor/Entrepreneur, University of Lisbon/IObundle Lda.
+Andrés Santana Andreo;Spain;PhD candidate, Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US
+Steffen Reith;Germany;Professor
+Ignacio Herrera-Alzu;Spain;PhD, Lecturer at ICAI School of Engineering
+Marcel Jung;Germany;Master Student, Heidelberg University
+Matthias Tarasiewicz;Austria;Director, RIAT Institute
+Mattia Mirigaldi;Italy;PhD
+Hugo Frisk;Sweden;Electronics Engineer, Teenage Engineering
+Stuart Kerr;Singapore;Mixed Signal ASIC Designer
+Markus Winter;Austria;Software Architect Embedded Systems, Fronius International
+Mauricio Montanares;Ireland;MCCI/Tyndal National Institute
+Mohsen Seyedkazemi Ardebili;Italy;Postdoctoral Researcher, University of Bologna
+Lana Josipović;Switzerland;Assistant Professor, ETH Zurich
+Sebastian Castro Yang;Chile;Applications Engineer, Synopsys
+Felicitas Pojtinger;Germany;Software Developer and Open Source Maintainer, Loophole Labs
+Joakim Nilsson;Sweden;Luleå University of Technology
+Ambily Suresh;Austria;Senior Scientist, Silicon Austria Labs GmbH
+Alfonso Cortés;France;Research Engineer, Inria
+Laura Bégon-Lours;Switzerland;Assistant Professor, ETH Zürich
+CHOTIN Roselyne;France;Professor, Sorbonne University
+Shavika Rastogi;Australia;PhD Student
+Manuel Prieto-Matias;Spain;Professor, Complutense University
+Jonathan Bizzi;Italy;CEO & CTO, Daidalos
+Nicolas Andersson;Switzerland;Student microengineering, HEIG-VD
+Gustav Wahl;Norway;Software Developer
+Pablo Balbi;Argentina - Spain;Researcher, UBA
+Marek Wojcikowski;Poland;Assiciate Professor, Gdansk University of Technology
+Martin Omana;Italy;University of Bologna
+Rafael Castro López;Spain;Instituto de Microelectrónica de Sevilla, IMSE-CNM, CSIC/US - Spai
+Amedeo Iantorno;Switzerland;IC Design Engineer
+Enrico Zschemisch;USA;Principal Test Engineer, Marvell Semiconductor Inc
+Marvin Barth;Germany;Bachelor Student, Karlsruhe Institute of Technology
+Veronica Cortes;United States;Electrical Engineer
+Lars Svensson;Sweden;Associate Professor, Chalmers University
+David Kunštek;Slovenia;SelfLearner
+Mazen Saghir;Lebanon;American University of Beirut
+Alberto Gancedo;Spain;Analog IC Design Engineer, ChipFlow
+Carlos Medrano Navalón;Spain;PhD Student, Universidad de Castilla-La Mancha
+Eyck Jentzsch;Germany;MINRES Technologies GmbH
+Wolfgang Nebel;Germany;Prof. Chairman edacentrum
+Abdul Wahab;Pakistan;Information Security Researcher at MoD
+Teresa Cervero;Spain;Leading Research Engineer, BSC
+Joaquín Borràs Sarsa;Spain;Research Engineer & RTL designer, BSC
+Xabier Abancens Calvo;Spain;Leading researcher, BSC
+Emanuele Parisi;Spain;Recognized Researcher, Barcelona Supercomputing Center
+Carlos Puchol;Spain;Senior Leader, Barcelona Supercomputing Center
+Pavel Kuroedov;Spain;Research Engineer, BSC
+Juan Carlos Rodriguez;Spain;Research Engineer, BSC
+Rohan Verma;India;Compiler Engineer
+Bruno;Uruguay;Engineer Student
+Matej Petak;Austria;Software engineer, Primetals technologies Austria
+Luis Carlos Alvarez Simón;Mexico;Postdoctoral Researcher
+Alfiero Leoni;Italy;Researcher, University of L'Aquila
+Ruben Salvador;France;Associate Professor
+Jaume Abella;Spain;Lab director, BSC
+Sergi Alcaide;Spain;PostDoc, Barcelona Supercomputing Center
+Alex Torrubia Ollero;Spain;Research Engineer, Barcelona Supercomputing Center
+Ondrej Kolar;Czech Republic;PhD Student, Brno University of Technology
+Ellen Wood;United Kingdom;Chip Layout Engineer
+Francesco Sgherzi;Spain;Research Engineer, Barcelona Supercomputing Center
+Renan Beran Kilic;Italy;PhD candidate, University of Trento
+Nicolas Marchand;Belgium;Lecturer, ECAM
+Daniel Teal;United States;PhD, University of California, Berkeley
+Günter Grau;Germany;CEO, advICo microelectronics GmbH
+Sandeep;Germany;Entreoreneur and startup engineer
+Steve Jenson;United States;Independent Engineer
+deepak v katkoria;austria;ceo
+Francisco Sayas;Spain;R&D Engineer
+Iain Adrian Apreotesei;Romania;Founder & Principal Consultant, Cantech Informatics
+Lorenzo Ciampolini;France;RISC-V system architect
+David W. Parent;Unites States;Professor, San Jose State University
+Okan Zafer Batur;Turkey;Assistant Professor
+Mikhail Popov;Spain;Research Engineer, BSC
+Hicret Erkoç;Türkiye;Digital Design Engineer, Sistem Kalibrasyon Müh. San.
+Batuhan Kaya;Turkey;Playard, Electronics System Engineer
+Tommaso Floris;Italy;PhD, Università di Pavia
+Nicola;Netherlands;Senior Analog Design Engineer, Innatera Nanosystems
+Fabien Caura;France;Electronics Engineer, Institute for Future Technologies
+Suraj Shirvankar;Spain;Research Engineer, Barcelona Supercomputing Center
+Christoph Wandel;Germany;PDK representative at IBM Germany R&D GmbH
+Ido Cohen;Israel;CEO, Loadmill
+Mihailo Knežević;Serbia;Teaching and Research Assistant, University of Kragujevac
+Manuel Monge;United States;Founder and CEO, OpenIC
+Csaba Tóth;Germany;Senior Systems Architect, Infosys Ltd.
+Juan Sapriza;Switzerland;PhD Student, EPFL
+Mücahid Açıkgöz;Turkey;Student, Baskent University
+Quentin Wach;Germany;Research Assistant, Fraunhofer HHI
+James Meech;United Kingdom;University of Cambridge
+Abdul wahab;Pakistan;Information Security (Hardware) Researcher
+Robin Alden;New Zealand;Director, Project X51
+Steven van der Vlugt;The Netherlands;HPC researcher, ASTRON
+Daniel Tuchscherer;Germany;System Architect, Bosch
+Jan Snoeijs;Switzerland;PhD student
+Lucas Moura Santana;Belgium;Research Engineer, imec
+Shahab Bozorgzadeh;Italy;Master's student, University of Bologna
+Shahab Bozorgzadeh;Italy;Master's student, University of Bologna
+David Mallasén Quintana;Switzerland;Postdoctoral Researcher, EPFL
+Christopher Grant;Canada;Owner of Secure Mesh Systems & Embedded Developer for Irdest
+Eloi Merino Serrar;Spain;Research Engineer & RTL Design Verification, BSC
+Cem Unsalan;Turkey;Professor, Yeditepe University
+Giuseppe Maria Sarda;Belgium;PhD Student, KU Leuven & imec
+Nicola Dall'Ora;Italy;Assistant Professor, Guglielmo Marconi University & University of Verona
+Rok Krajnc;Slovenia;Senior Engineer ASIC Digital Design, RLS
+Cem Unsalan;Turkey;Professor, Yeditepe University
+Gerhard Fettweis;Germany;Professor / Scientific Director
+Jean-Michaël Celerier;France;Tech lead, ossia.io & technological development director, Société des Arts Technologiques
+H. Dabui;Germany;Embedded Systems Engineer, Digital Design Hobbyist
+Jesper Kristensen;Denmark;Associate Professor, Aarhus University
+Javier Alvarez Garcia;Switzerland;Principal engineer, Daedalean AI
+Samuel Kelemen;Sweden;Principal Security Engineer, King
+Tim Hentschel;Germany;Barkhausen Institut
+Aravind Prasad;India;Chief Executive Officer
+Aravind Prasad;India;Chief Executive Officer
+Darryl Miles;United Kingdom;Digital Engineer
+Natalia Jurado-Espin;Switzerland;Embedded SW Engineer
+Marco Bartoli;Spain;Security Researcher, Microsoft
+José Luis Valtierra;Mexico;Professor, Universidad Autónoma de Baja California
+Nikos Fragoulis;Greece;CTO
+Yigit Bektas Gursoy;Türkiye;ASIC Design Engineer, Tübitak Bilgem
+Giorgos Hadjipavlis;Greece;Research Engineer
+Martin Povišer;Czechia;EDA developer, OpenROAD and yosys-slang
+Gerald Moser;Germany;Business Manager Integrated Digital Systems
+Harshal Advane;India;Founder/Trainer,LearnChipDesign
+Lilia Zaourar;France;Expert CEA LIST
+Ana Cruz Martín;Spain;AssociateProfessor, Universidad de Málaga
+Mike Borowczak;United States of America;University of Central Florida
